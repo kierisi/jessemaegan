@@ -59,9 +59,9 @@ There are two main roles within this online community - that of a learner, and t
 * 8/31/2017: Last day to sign up for the online learning community
 * 9/1/2017: Slack invitations go out
 * 9/1–9/7: Introductions & Setting Up Your Work Environment
-  * Introduce yourself and get to know others in the group
-  * Read and discuss the Welcome as well as sections 1, 6, and 8 in the text
-  * Install necessary software on your machine.
+  + Introduce yourself and get to know others in the group
+  + Read and discuss the Welcome as well as sections 1, 6, and 8 in the text
+  + Install necessary software on your machine.
 
 #### Update
 This version of the R for Data Science online learning community is now closed.
