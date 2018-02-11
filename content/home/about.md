@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Education",
+    "Data Science",
+    "Data Science Education (with R)"
   ]
 
 # List your qualifications (such as academic degrees).
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
+
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MA in Secondary Science Education"
+  institution = "CUNY Hunter"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biochemistry"
+  institution = "Northland College"
+  year = 2007
  
 +++
 
-# Biography
+# Background
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In addition, Jesse is the community manager for the R for Data Science Online Learning Community, as well as a co-founder of RLadies Dallas.
