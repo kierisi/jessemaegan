@@ -48,7 +48,7 @@ Reprexes are significantly easier to read, as well as copy and paste. This means
 ![R code formatted using reprex()](/Users/jessemostipak/Documents/jessemaegan/content/post/reprex.png)
 
 This means they're going to have more time to do one thing:
-**Help you**
+**help you**
 
 ## Still not sure why a reprex is necessary?
 
