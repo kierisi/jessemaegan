@@ -17,7 +17,7 @@ tags:
   - tutorial
 ---
 ## Introduction
-If you've found yourself here, you've probably been asked to create a **re**producible **ex**ample, or [reprex](https://www.tidyverse.org/help/), in response to a question you asked on  [community.rstudio.com](https://community.rstudio.com/)). This post will do a cursory overview of both creating a reprex as well as how to _share_ your reprex on the RStudio Community site.  
+If you've found yourself here, you've probably been asked to create a **re**producible **ex**ample, or [reprex](https://www.tidyverse.org/help/), in response to a question you asked on  [community.rstudio.com](https://community.rstudio.com/). This post provide a cursory overview of both creating a reprex as well as how to _share_ your reprex on the RStudio Community site.  
 
 ## A brief reprex "how to"
 1. Install and load the `reprex` package
@@ -28,10 +28,9 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 5. Everything that you need to post a reprex is now automatically stored on your clipboard!   
 
 ## Posting to community.rstudio.com  
-### If you haven't created your post yet  
-Remember that as soon as you run reprex() in the console, everything you need to share your reprex has been stored on your clipboard, and you do not need to take any additional steps to getting a reprex ready!
+Remember that as soon as you run `reprex()` in the console, everything you need to share your reprex has been stored on your clipboard, and you do not need to take any additional steps to getting a reprex ready for posting!
 
-Navigate to community.rstudio.com and create a new post. Paste (Ctrl + v/Cmd + v) your reprex into the posting box on the left and add any necessary commentary to help community members answer your question, like so:
+Navigate to [community.rstudio.com](https://community.rstudio.com/) and create a new post. Paste (Ctrl + v/Cmd + v) your reprex into the posting box on the left and add any necessary commentary to help community members answer your question, like so:
 ![Example reprex post using a ggplot2 example](/Users/jessemostipak/Documents/jessemaegan/content/post/ggplot2_reprex_image.png)
 
 
@@ -50,3 +49,8 @@ Reprexes are significantly easier to read, as well as copy and paste. This means
 
 This means they're going to have more time to do one thing:
 **Help you**
+
+## Still not sure why a reprex is necessary?
+
+Check out these analogies from the Twitterverse:
+{{< tweet963191049060528129 >}}
