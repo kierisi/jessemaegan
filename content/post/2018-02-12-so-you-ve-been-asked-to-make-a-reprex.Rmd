@@ -50,7 +50,9 @@ Reprexes are significantly easier to read, as well as copy and paste. This means
 This means they're going to have more time to do one thing:
 **help you**
 
-## Still not sure why a reprex is necessary?
+## Still not convinced a reprex is necessary?
+No one can force you to make a reprex, but they can decide not to answer your question when you don't provide one.  
 
-Check out these analogies from the Twitterverse:
-{{< tweet 963191049060528129 >}}
+Imagine that you've made a cake, and for some reason it's turned out absolutely awful - we're talking completely inedible. Asking a question *without* a reprex is like asking "Why didn't my cake turn out right?" There are hundreds of possible answers to that question, and it's going to take a long time to narrow in on the exact cause for your inedible cake creation.  
+
+Asking a question *with* a reprex is like asking "My cake didn't turn out, and here's the recipe I used and the steps that I followed. Where did I go wrong?"  
