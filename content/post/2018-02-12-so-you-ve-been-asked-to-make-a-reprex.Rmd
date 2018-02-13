@@ -24,7 +24,7 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 ## A brief reprex "how to"
 1. Install and load the `reprex` package
 2. Highlight the code *and associated packages*, as indicated by `library(package_name)`, like so:
-<img src="../../img/highlighted_reprex_code.png" alt="highlighted code and package used to create a reprex" />
+<img src="/Users/jessemostipak/Documents/jessemaegan/static/img/highlighted_reprex_code.png" alt="highlighted code and package used to create a reprex" />
 ![Highlighted code and package used to create a reprex](/Users/jessemostipak/Documents/jessemaegan/static/img/highlighted_reprex_code.png)
 3. Copy the highlighted code by pressing Ctrl + Enter/Cmd + Enter
 4. In the [console](http://r4ds.had.co.nz/workflow-scripts.html) type `reprex()` and hit Enter/Return
