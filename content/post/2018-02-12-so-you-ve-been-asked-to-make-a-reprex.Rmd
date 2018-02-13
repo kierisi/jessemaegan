@@ -24,11 +24,8 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 ## A brief reprex "how to"
 1. Install and load the `reprex` package
 2. Highlight the code *and associated packages*, as indicated by `library(package_name)`, like so:
-
-# below used with uglyurls enabled and image saved in public folder
-![test](/Users/jessemostipak/Documents/jessemaegan/content/post/highlighted_reprex_code.png)
-# below used with static folder
 ![Highlighted code and package used to create a reprex](/Users/jessemostipak/Documents/jessemaegan/static/img/highlighted_reprex_code.png)
+\ 
 3. Copy the highlighted code by pressing Ctrl + Enter/Cmd + Enter
 4. In the [console](http://r4ds.had.co.nz/workflow-scripts.html) type `reprex()` and hit Enter/Return
 5. Everything that you need to post a reprex is now automatically stored on your clipboard!   
