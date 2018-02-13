@@ -17,8 +17,8 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 # [[education.courses]]
-#   course = "PhD in Artificial Intelligence"
-#   institution = "Stanford University"
+#   course = "Doctoral Candidate in Immuhnology & Infectious Diseases"
+#   institution = "MSU Bozeman"
 #   year = 2012
 
 [[education.courses]]
@@ -35,6 +35,6 @@ weight = 5
 
 # Background
 
-Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
+Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, she continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
 
-In addition, Jesse is the community manager for the R for Data Science Online Learning Community, as well as a co-founder of RLadies Dallas.
+Jesse is also the community manager for the R for Data Science Online Learning Community, as well as a co-founder of RLadies Dallas.
