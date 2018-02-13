@@ -21,8 +21,8 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 
 ## A brief reprex "how to"
 1. Install and load the `reprex` package
-2. Highlight the code **and associated packages, indicated by `library(package_name)`**, like so:
-![Highlighted code and package used to create a reprex](/jessemaegan/static/img/highlighted_reprex_code.png)
+2. Highlight the code *and associated packages*, as indicated by `library(package_name)`**, like so:
+![Highlighted code and package used to create a reprex](/Users/jessemostipak/Documents/jessemaegan/static/img/highlighted_reprex_code.png)
 3. Copy the highlighted code by pressing Ctrl + Enter/Cmd + Enter
 4. In the [console](http://r4ds.had.co.nz/workflow-scripts.html) type `reprex()` and hit Enter/Return
 5. Everything that you need to post a reprex is now automatically stored on your clipboard!   
@@ -31,7 +31,7 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 Remember that as soon as you run `reprex()` in the console, everything you need to share your reprex has been stored on your clipboard, and you do not need to take any additional steps to getting a reprex ready for posting!
 
 Navigate to [community.rstudio.com](https://community.rstudio.com/) and create a new post. Paste (Ctrl + v/Cmd + v) your reprex into the posting box on the left and add any necessary commentary to help community members answer your question, like so:
-![Example reprex post using a ggplot2 example](/jessemaegan/static/img/ggplot2_reprex_image.png)
+![Example reprex post using a ggplot2 example](/Users/jessemostipak/Documents/jessemaegan/static/img/ggplot2_reprex_image.png)
 
 
 ## Why you should reprex
@@ -43,9 +43,9 @@ Reprexes are significantly easier to read, as well as copy and paste. This means
 2. Trying to replicate the exact error(s) you're dealing with  
 3. Interpreting a jumble of non-formatted code  
 
-![non-formatted R code](static/img/non_reprex.png)
+![non-formatted R code](/Users/jessemostipak/Documents/jessemaegan/static/img/non_reprex.png)
 
-![R code formatted using reprex()](/static/img/reprex.png)
+![R code formatted using reprex()](/Users/jessemostipak/Documents/jessemaegan/static/img/reprex.png)
 
 This means they're going to have more time to do one thing:
 **help you**
