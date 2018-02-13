@@ -168,15 +168,15 @@ defaultContentLanguageInSubdir = false
   #   The language can be edited below.
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
-  ]
+  #publication_types = [
+   # 'Uncategorized',  # 0
+    #'Conference paper',  # 1
+    #'Journal article',  # 2
+    #'Manuscript',  # 3
+    #'Report',  # 4
+    #'Book',  # 5
+    #'Book section'  # 6
+  #]
 
   # Configuration of talk pages.
   [params.talks]
@@ -184,10 +184,10 @@ defaultContentLanguageInSubdir = false
     time = true
 
   # Configuration of publication pages.
-  [params.publications]
+  #[params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+   # date_format = "January, 2006"
 
   # Configuration of project pages.
   [params.projects]
@@ -199,7 +199,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+   # publication_format = 3
 
   # Social/Academic Networking
   #
