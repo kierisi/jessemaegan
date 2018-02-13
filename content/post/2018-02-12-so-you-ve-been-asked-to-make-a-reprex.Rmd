@@ -17,7 +17,7 @@ tags:
   - tutorial
 ---
 ## Introduction
-If you've found yourself here, you've probably been asked to create a **re**producible **ex**ample, or [reprex](https://www.tidyverse.org/help/), in response to a question you asked on  [community.rstudio.com](https://community.rstudio.com/). This post provide a cursory overview of both creating a reprex as well as how to _share_ your reprex on the RStudio Community site.  
+If you've found yourself here, you've probably been asked to create a **re**producible **ex**ample, or [reprex](https://www.tidyverse.org/help/), in response to a question you asked on  [RStudio Community Site](https://community.rstudio.com/). This post provides a cursory overview of both creating a reprex as well as how to _share_ your reprex on the RStudio Community site.  
 
 ***
 
