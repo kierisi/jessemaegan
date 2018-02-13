@@ -19,6 +19,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
 
+# Attempt to fix broken images
+uglyurls = true
+#[permalinks]
+# post = "/:year/:month/:day/:slug/"
+
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
