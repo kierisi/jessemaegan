@@ -22,7 +22,7 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 ***
 
 ## A brief reprex "how to"
-1. Install and load the `reprex` package
+1. [Install the development version of reprex from GitHub](https://github.com/tidyverse/reprex) and then load the `reprex` package
 2. Highlight the code *and associated packages*, as indicated by `library(package_name)`, like so:
 ![Highlighted code and package used to create a reprex](/Users/jessemostipak/Documents/jessemaegan/static/img/highlighted_reprex_code.png)
 \ 

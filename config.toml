@@ -19,8 +19,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
 
-# Attempt to fix broken images
-uglyurls = true
+### added on 2/14/2018:
+relativeurls = true
+### may need to remove the uglyurls!
+# added on 2/12/2018 in attempt to fix broken images
+uglyURLs = true
 #[permalinks]
 # post = "/:year/:month/:day/:slug/"
 
