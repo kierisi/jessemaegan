@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
  [[education.courses]]
-   course = "Doctoral Candidate in Immuhnology & Infectious Diseases"
+   course = "Doctoral Candidate in Immunology & Infectious Diseases"
    institution = "MSU Bozeman"
    #year = 2012
 
