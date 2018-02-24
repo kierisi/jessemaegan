@@ -11,7 +11,7 @@ tags:
   - R
 ---
 
-Data is everywhere, and it seems you can’t go more than 48 hours without hearing how data scientists are going to rule the world--[if only we can train enough of them](https://www.forbes.com/sites/louiscolumbus/2017/05/13/ibm-predicts-demand-for-data-scientists-will-soar-28-by-2020/.
+Data is everywhere, and it seems you can’t go more than 48 hours without hearing how data scientists are going to rule the world--[if only we can train enough of them](https://www.forbes.com/sites/louiscolumbus/2017/05/13/ibm-predicts-demand-for-data-scientists-will-soar-28-by-2020/).
 
 The thing is, you don’t need to wait until after you get that Master’s (or PhD) in Data Science, or even until complete that online course that cost you several thousand dollars. You can start working with data now, and depending on your interests, skills, and commitment to learning, be job-ready in six months to a year.
 
@@ -44,12 +44,12 @@ One of the best beginner books I’ve found for R is R in Action, by Robert Kaba
 
 * [R for Data Science](http://r4ds.had.co.nz/), by [Garrett Grolemund](https://twitter.com/statgarrett) and [Hadley Wickham](https://twitter.com/hadleywickham. This text sits firmly between beginner and intermediate levels of R and data science knowledge.  
 
-If books really aren’t your thing, check out [STAT 545](http://stat545.com/topics.html. [Jenny Bryan](https://twitter.com/jennybryan) has published her entire syllabus, notes, code, and supplementary articles. Following along with this course at your own pace will singlehandedly improve your data analysis game in a matter of weeks.  
+If books really aren’t your thing, check out [STAT 545](http://stat545.com/topics.html). [Jenny Bryan](https://twitter.com/jennybryan) has published her entire syllabus, notes, code, and supplementary articles. Following along with this course at your own pace will singlehandedly improve your data analysis game in a matter of weeks.  
 
 *** 
 
 ## I’m OK with Excel, but ready for Python
-Yeah, you and me both. I don’t have a lot of good resources in learning Python for Data Science, because it’s still an area that I need to explore. That being said, I would highly recommend connecting with the [Data Science Learning Club](https://www.becomingadatascientist.com/learningclub/), an amazing, supportive, and friendly community created by [@BecomingDataSci](https://twitter.com/BecomingDataSci?lang=en).  
+Yeah, you and me both. I don’t have a lot of good resources in learning Python for Data Science, because it’s still an area that I need to explore. That being said, I would highly recommend connecting with the [Data Science Learning Club](https://www.becomingadatascientist.com/learningclub/), an amazing, supportive, and friendly community created by [BecomingDataSci](https://twitter.com/BecomingDataSci?lang=en).  
 
 ***
 
