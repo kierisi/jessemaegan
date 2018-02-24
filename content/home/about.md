@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Education",
+    "Education & Teaching",
     "Data Science",
-    "Data Science Education (with R)"
+    "Data Science Education (with R)",
+    "Hiking/Mountaineering"
   ]
 
 # List your qualifications (such as academic degrees).
