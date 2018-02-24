@@ -11,16 +11,17 @@ weight = 5
 [interests]
   interests = [
     "Education & Teaching",
-    "Data Science",
     "Data Science Education (with R)",
-    "Hiking/Mountaineering"
+    "Non-profit Data Science",
+    "Leadership Development & Community Building",
+    "Hiking & Mountaineering"
   ]
 
 # List your qualifications (such as academic degrees).
-# [[education.courses]]
-#   course = "Doctoral Candidate in Immuhnology & Infectious Diseases"
-#   institution = "MSU Bozeman"
-#   year = 2012
+ [[education.courses]]
+   course = "Doctoral Candidate in Immuhnology & Infectious Diseases"
+   institution = "MSU Bozeman"
+   #year = 2012
 
 [[education.courses]]
   course = "MA in Secondary Science Education"
@@ -38,4 +39,4 @@ weight = 5
 
 Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, she continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
 
-Jesse is also the community manager for the R for Data Science Online Learning Community, as well as a co-founder of RLadies Dallas.
+Jesse is the founder and community manager for the [R for Data Science Online Learning Community](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82), serves on the [GSNETX](http://www.gsnetx.org/) STEM Advisory Board, is actively looking for an RLadies Dallas co-founders.
