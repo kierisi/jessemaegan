@@ -24,7 +24,7 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 ## A brief reprex "how to"
 1. [Install the development version of reprex from GitHub](https://github.com/tidyverse/reprex) and then load the `reprex` package
 2. Highlight the code *and associated packages*, as indicated by `library(package_name)`, like so:
-![Highlighted code and package used to create a reprex](/Users/jessemostipak/Documents/jessemaegan/public/img/highlighted_reprex_code.png)
+![Highlighted code and package used to create a reprex](https://i.imgur.com/qxZSz2L.png)
 \ 
 3. Copy the highlighted code by pressing Ctrl/Cmd + c
 4. In the [console](http://r4ds.had.co.nz/workflow-scripts.html) type `reprex()` and hit Enter/Return
@@ -36,7 +36,7 @@ If you've found yourself here, you've probably been asked to create a **re**prod
 Remember that as soon as you run `reprex()` in the console, everything you need to share your reprex has been stored on your clipboard, and you do not need to take any additional steps to getting a reprex ready for posting!
 
 Navigate to [community.rstudio.com](https://community.rstudio.com/) and create a new post. Within the text editor, paste (Ctrl/Cmd + v) your reprex output (which has already been stored on your clipboard) and add any necessary commentary to help community members answer your question, as follows:
-![Example reprex post using a ggplot2 example](/Users/jessemostipak/Documents/jessemaegan/public/img/ggplot2_reprex_image.png)
+![Example reprex post using a ggplot2 example](https://i.imgur.com/0CE5pbI.png)
 
 ***
 
@@ -49,9 +49,9 @@ Reprexes are significantly easier to read, as well as copy and paste. This means
 2. Trying to replicate the exact error(s) you're dealing with  
 3. Interpreting a jumble of non-formatted code  
 
-![non-formatted R code](/Users/jessemostipak/Documents/jessemaegan/public/img/non_reprex.png)
+![non-formatted R code](https://i.imgur.com/J7NHG50.png)
 
-![R code formatted using reprex()](/Users/jessemostipak/Documents/jessemaegan/public/img/reprex.png)
+![R code formatted using reprex()](https://i.imgur.com/9on3dSC.png)
 
 This means they're going to have more time to do one thing:
 **help you**
@@ -73,7 +73,8 @@ _Thanks to [Charlotte](https://twitter.com/CVWickham) for this one!_
 
  "If you are marooned on a desert island, it's like the difference between putting SOS on your message in a bottle, and putting SOS _and_ your GPS coordinates on your message in a bottle."
 
-### [Additional analogies](https://twitter.com/kierisi/status/963191049060528129)  
+### Neither of these analogies working for you?
+[Additional analogies](https://twitter.com/kierisi/status/963191049060528129) can be found here - and feel free to revive the thread with your own! 
 
 ***
 
@@ -82,11 +83,11 @@ _Thanks to [Charlotte](https://twitter.com/CVWickham) for this one!_
 
 And a million thanks to [Mara](https://twitter.com/dataandme) for collecting all the reprex and question-asking resources you could ever need:  
 
-* [reprex](http://reprex.tidyverse.org/)
+* [reprex package](http://reprex.tidyverse.org/)
 * [reprex GitHub](https://github.com/tidyverse/reprex)
 * [The Minimal Reproducible Example Paradox](https://yihui.name/en/2017/09/the-minimal-reprex-paradox/) by Yihui Xie
 * [tidyverse help: reprex](https://www.tidyverse.org/help/#reprex)
-* [rOpenSci community call](https://vimeo.com/208749032) this video starts talking reprex at approximately 10:30
+* [rOpenSci community call](https://vimeo.com/208749032) video with a reprex talk at 10:30ish
 * [Help me help you](https://speakerdeck.com/jennybc/reprex-help-me-help-you) slide deck by Jenny Bryan
 * [Magic Reprex](http://www.njtierney.com/post/2017/01/11/magic-reprex/) by Nick Tierney
 * [StackOverflow: How to make a great R reproducible example? aka MCVE](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
