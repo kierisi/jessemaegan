@@ -2,13 +2,13 @@
 title: 'R4DS March Challenge: Participate in a Viewing Party!'
 author: Jesse M
 date: '2018-02-24'
-slug: r4ds-march-challenge-participate-in-a-viewing-party
-categories: []
 tags:
   - community
   - presenting
   - public speaking
   - R4DS
+  - challenge
+slug: r4ds-march-challenge-participate-in-a-viewing-party
 ---
 
 We're so close to March, which for many of you involves a lot of college basketball. 
