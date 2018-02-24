@@ -5,7 +5,7 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "/"
 #2/22/2018
-baseurl = "jessemaegan.com/"
+baseurl = "https://www.jessemaegan.com/"
 # Title of your site
 title = "Jesse Maegan"
 
