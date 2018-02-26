@@ -27,7 +27,7 @@ If you know me, you know that I love to communicate using GIFs. So naturally one
 There's nothing wrong with this method, but it's a bit too technical for my needs, because really when I say GIF I'm referring to internet memes and not some amazingly useful and helpful [ggplot2](http://ggplot2.tidyverse.org/)-generated graph.  
 
 ### What you need
-* an [imgur](https://imgur.com/) account
+* an [imgur](https://imgur.com/) account (see the 'Updates' section below to bypass imgur)
 * a GIF to share on your website - I use [GIPHY](https://giphy.com/) for 99% of my GIFfing needs
 * blogdown up and running on your computer
 
@@ -48,4 +48,12 @@ There's nothing wrong with this method, but it's a bit too technical for my need
 8. In the 'placeholder text' space, type in whatever text you'd like to appear under your GIF, and paste your GIF URL in between the parentheses
 9. Profit!  
 
-![the above GIF was created using: `![](https://i.imgur.com/fAevDKc.gif)`](https://i.imgur.com/fAevDKc.gif)
+![the above GIF was created using: `![](https://i.imgur.com/fAevDKc.gif)`](https://i.imgur.com/fAevDKc.gif)  
+
+*** 
+
+## Updates!
+_Many thanks to [Alison Hill](https://twitter.com/apreshill) for sharing the following resources:_  
+
+* [You can link _directly_ to GIPHY (or other sites)](https://alison.rbind.io/post/r-ladies-slides/), which removes the need for imgur uploads
+* And for information on figure captions, [look no further](https://blogdown-demo.rbind.io/2017/10/06/adding-figures-and-other-images-to-posts/)!
