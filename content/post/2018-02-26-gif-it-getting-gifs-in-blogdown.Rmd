@@ -15,9 +15,9 @@ slug: gif-it-gif-it-real-good
 We're going to walk through the basics of posting GIFs on your [blogdown](https://bookdown.org/yihui/blogdown/) website using [imgur](https://imgur.com/) and [GIPHY](https://giphy.com/). 
 
 ## Introduction
-Blogdown is an amazing tool for - _wait for it_ - blogging. I recently made the jump to blogdown, and after working out all of my self-inflicted initial "OMG what happened _now_?!" issues, blogdown has become part of my daily workflow. I'm still working out some formatting issues (evidence below) but on the whole things are coming together nicely.
+Blogdown is an amazing tool for - _wait for it_ - blogging. I recently made the jump to blogdown, and after working out all of my self-inflicted initial "OMG what happened _now_?!" issues, blogdown has become part of my daily workflow. I'm still playing with formatting issues (evidence below) but on the whole things are coming together nicely.
 
-![__me & blogdown__ _(why is this text so far away from the image? how do I put it closer? how do I move it to the top? if you know, Twitter me!)_](https://i.imgur.com/nx32vir.jpg)
+![__me & blogdown__ _(Why is this text so far away from the image? How do I put it closer, to serve as more of a caption? How do I move text to the top? If you know, Twitter me!)_](https://i.imgur.com/nx32vir.jpg)
 
 ***
 
@@ -35,10 +35,10 @@ There's nothing wrong with this method, but it's a bit too technical for my need
 
 ### What to do
 1. Find your GIF - I'm going to use the search terms "knope dance" on GIPHY
-2. If you're using GIPHY, click on your GIF and then click on download (I usually choose Source)
+2. Within GIPHY, click on your GIF and then click on download (I usually choose Source)
 3. Go to imgur. Hover over your account name, and then select 'Images' from the dropdown menu, like so:
 ![](https://i.imgur.com/TDYM0hl.png)
-4. Upload your GIF to imgur by whatever means floats your boat (drag and drop or using the 'Add images' button are your two best bets)
+4. Upload your GIF to imgur by whatever means floats your boat (drag and drop or using the 'Add images' button)
 5. Click on the thumbnail of your GIF to get the following screen:
 ![](https://i.imgur.com/43iUO8W.png)  
 6. Copy the link in the 'Original GIF Link' box - this is the URL that ends in __.gif__, _not .gifv_
