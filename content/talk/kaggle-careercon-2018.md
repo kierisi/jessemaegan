@@ -52,4 +52,5 @@ caption = ""
 
 +++
 
+
 Listen to a panel of speakers who successfully moved into data science from other “unrelated” careers. They’ll discuss their methods for successful practice and skill building, practical advice on job searching, and how they framed their past experience to make it relevant and compelling during data science interviews.
