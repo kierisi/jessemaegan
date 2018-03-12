@@ -3,9 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "/"
-#2/22/2018
 baseurl = "https://www.jessemaegan.com/"
+
 # Title of your site
 title = "Jesse Maegan"
 
@@ -254,7 +253,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Talks & Workshops"
+  name = "Talks"
   url = "#talks"
   weight = 2
 
