@@ -1,6 +1,6 @@
 +++
 title = "How to effectively teach yourself data science (with R)"
-date = 2018-03-13T13:38:24-05:00  # Schedule page publish date.
+date = 2018-03-13T10:40:24-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
