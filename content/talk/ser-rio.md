@@ -1,11 +1,11 @@
 +++
 title = "Mind the Gap"
-date = 2018-05-23T13:46:43-05:00  # Schedule page publish date.
+#date = 2018-05-23T13:46:43-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2018-03-12T13:46:43-05:00
+time_start = 2018-05-23T12:00:00-05:00
 #time_end = 2018-03-12T13:46:43-05:00
 
 # Abstract and optional shortened version.

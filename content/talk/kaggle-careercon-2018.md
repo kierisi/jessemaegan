@@ -1,11 +1,11 @@
 +++
 title = "Data Science Career Transitions (Panel)"
-date = 2018-03-22T13:45:44-05:00  # Schedule page publish date.
+#date = 2018-03-22T13:45:44-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2018-03-22T12:00:00-13:00
+time_start = 2018-03-22T12:00:00-13:00
 #time_end = 2018-03-22T13:45:44-05:00
 
 # Abstract and optional shortened version.
