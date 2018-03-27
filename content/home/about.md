@@ -39,4 +39,4 @@ weight = 5
 
 Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, she continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
 
-Jesse is the founder and community manager for the [R for Data Science Online Learning Community](https://www.jessemaegan.com/post/r4ds-the-next-iteration/), serves on the [GSNETX](http://www.gsnetx.org/) STEM Advisory Board, and is actively looking for an RLadies Dallas co-founder.
+Jesse is the founder and community manager for the [R for Data Science Online Learning Community](https://www.jessemaegan.com/post/r4ds-the-next-iteration/), serves on the [GSNETX](http://www.gsnetx.org/) STEM Advisory Board, and is the founder of [RLadies Dallas](https://www.meetup.com/rladies-dallas/).
