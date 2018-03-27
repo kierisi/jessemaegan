@@ -40,7 +40,7 @@ I'm going to be a bit cryptic and let you know that this first challenge is goin
 
 Our second project is [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), where every Monday we'll post a tame (but not necessarily tidy!) dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. 
 
-The goal of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) is to apply the skills you're picking up from the **R for Data Science** text to tidy and plot data, and then explore other’s work and connect with the greater `#rstats` community on Twitter by using the `#TidyText` hashtag!  
+The goal of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) is to apply the skills you're picking up from the [**R for Data Science**](http://r4ds.had.co.nz/) text to tidy and plot data, and then explore other’s work and connect with the greater `#rstats` community on Twitter by using the `#TidyText` hashtag!  
 
 _If [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) sounds familiar, that's because it's inspired by the awesome [#MondayMakeover](http://www.makeovermonday.co.uk/) series from Tableau._
 
