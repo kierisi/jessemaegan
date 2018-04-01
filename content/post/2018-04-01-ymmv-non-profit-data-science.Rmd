@@ -68,7 +68,7 @@ Perhaps none of the above groups appeal to you, or there isn't a chapter in your
 
 ## Most importantly: do good human-ing
 
-It can be tempting to go in to a data science volunteer experience ready to show off all of your machine learning algorithm skills, but that may not be what the organization needs. Perhaps instead of predictive modeling, they would instead benefit greatly from a series of data trackers in Excel and monthly data audits.  
+It can be tempting to go in to a data science volunteer experience ready to show off all of your machine learning algorithm skills, but that may not be what the organization needs. Perhaps instead of predictive modeling, they would derive more benefit from a series of data trackers in Excel and monthly data audits.  
 
 Take the time to build relationships and understand what the staff at the NPO needs. Ensure that anything you build is scalable and sustainable - a series of Python scripts that only you know how to run has limited value compared to a solution that the bulk of staff members can utilize without your assistance.  
 
