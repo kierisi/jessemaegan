@@ -45,7 +45,7 @@ With chapters in the UK, Singapore, India, and parts of the US, Data Kind has an
 Data Science for Social Good is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
 
 ### [Delta Analytics](http://www.deltanalytics.org/)
-Delta Analytics works to bridge the skill gap faced by non-profits by providing free data consulting and data services as well as build technical capacity in communities around the world by providing free trainings to help democratize access to machine learning and data tools. You can apply to be involved in either of these opportunties.
+Delta Analytics works to bridge the skill gap faced by non-profits by providing free data consulting and data services as well as build technical capacity in communities around the world by providing free trainings to help democratize access to machine learning and data tools. You can apply to be involved in either of these opportunities.
 
 ### [Harvard Strategic Data Project](https://sdp.cepr.harvard.edu/)
 The Harvard Strategic Data Project has several application-based programs that are focused on training data strategists to generate and communicate new evidence that helps educators and policy leaders make better decisions for students.
