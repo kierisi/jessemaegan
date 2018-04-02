@@ -38,13 +38,22 @@ The following organizations offer opportunities to volunteer your data science s
 ### [Data for Good](https://datascienceottawa.wordpress.com/2017/04/14/how-to-d4g/)
 Primarily located in Ottawa and Montral, this group also provides insights on how to start your own chapter wherever you are. Check the #data4good hashtag on Twitter for additional chapter locations!  
 
-###[Data Kind](http://www.datakind.org/)
+### [Data Kind](http://www.datakind.org/)
 With chapters in the UK, Singapore, India, and parts of the US, Data Kind has an application process for data scientists to be paired with non-profit projects that could benefit from your expertise.
 
-###[Statisticians for Society](http://www.rss.org.uk/RSS/Get_involved/Statisticians_for_Society/RSS/Get_involved/Statisticians_for_Society.aspx)
+### [Data Science for Social Good](https://dssg.uchicago.edu/)
+Data Science for Social Good is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
+
+### [Delta Analytics](http://www.deltanalytics.org/)
+Delta Analytics works to bridge the skill gap faced by non-profits by providing free data consulting and data services as well as build technical capacity in communities around the world by providing free trainings to help democratize access to machine learning and data tools. You can apply to be involved in either of these opportunties.
+
+### [Harvard Strategic Data Project](https://sdp.cepr.harvard.edu/)
+The Harvard Strategic Data Project has several application-based programs that are focused on training data strategists to generate and communicate new evidence that helps educators and policy leaders make better decisions for students.
+
+### [Statisticians for Society](http://www.rss.org.uk/RSS/Get_involved/Statisticians_for_Society/RSS/Get_involved/Statisticians_for_Society.aspx)
 This is a UK group that aims to help statisticians offer their skills to charities and other socially useful initiatives that need their professional expertise. You must be a member of the Royal Society of Statistics to participate.
 
-###[Statistics Without Borders](http://community.amstat.org/statisticswithoutborders/aboutswb/aboutswb)
+### [Statistics Without Borders](http://community.amstat.org/statisticswithoutborders/aboutswb/aboutswb)
 Statistics Without Borders (SWB) is a volunteer Outreach Group of the American Statistical Association (ASA) that provides pro bono services in statistics and data science. 
 
 _Do you know of other organizations that connect data scientists with NPOs? [Reach out to me on Twitter](https://twitter.com/kierisi) with more information, and I'll update this list!_
