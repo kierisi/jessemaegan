@@ -21,7 +21,7 @@ April is such a fantastic time of the year - the weather starts to warm up, tree
 ## Finishing up March's Viewing Parties  
 Thank you to everyone who participated in our viewing party in early March, where member [Chris B.](https://twitter.com/kcat_km) shared with us how to use [RMarkdown and Shiny with students](https://www.youtube.com/watch?v=O04l-LpmoE8)!  
 
-While there's been a bit of a lull, community member [Jon H](https://twitter.com/JonTheGeek) will be closing out the month of March with a talk about package development on March 31st. You're going to want to make sure you catch this one!  
+While there's been a bit of a lull, community member [Jon H.](https://twitter.com/JonTheGeek) will be closing out the month of March with a talk about package development on March 31st. You're going to want to make sure you catch this one!  
 
 Due to some scheduling conflicts, some of our talks have been moved to April - we're excited to announce the following tentative schedule, and can't wait to see **you** at the viewing parties!  
 
@@ -40,7 +40,7 @@ I'm going to be a bit cryptic and let you know that this first challenge is goin
 
 Our second project is [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), where every Monday we'll post a tame (but not necessarily tidy!) dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. 
 
-The goal of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) is to apply the skills you're picking up from the [**R for Data Science**](http://r4ds.had.co.nz/) text to tidy and plot data, and then explore other’s work and connect with the greater `#rstats` community on Twitter by using the `#TidyText` hashtag!  
+The goal of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) is to apply the skills you're picking up from the [**R for Data Science**](http://r4ds.had.co.nz/) text to tidy and plot data, and then explore other’s work and connect with the greater `#rstats` community on Twitter by using the `#TidyTuesday` hashtag!  
 
 _If [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) sounds familiar, that's because it's inspired by the awesome [#MondayMakeover](http://www.makeovermonday.co.uk/) series from Tableau._
 
