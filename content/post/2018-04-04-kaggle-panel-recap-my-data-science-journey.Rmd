@@ -77,4 +77,4 @@ With all of that said, I've begun to learn Python for data science as well, and 
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-While these are all great resources, they won't get you very far if you aren't applying what you've learned on a regular basis. Create a GitHub account and start building things - they don't have to be grandiose or even useful beyond your own personal learning, but creating them will help you develop your skills and build out a portfolio of work.
+While these are all great resources, they won't get you very far if you aren't applying what you've learned on a regular basis. Create a GitHub account and start building things - they don't have to be grandiose or even useful beyond your own personal learning, but creating them will help you develop your skills and build out a portfolio of work.  
