@@ -55,6 +55,10 @@ Please note that you __*do not*__ have to be a part of our online learning commu
 
 This will vary by individual preference, but if you're looking for a "just right" text, skim the first few chapters of a text. If everything looks pretty familiar, great! Now go to the last few chapters and skim. If everything looks like something you've never seen or heard before, and _definitely_ has information that you couldn't explain to someone else, then this book is probably "just right" for you.
 
+**I joined the group but can't find the channel for my book**
+
+You will have to add yourself to the channel. You can do this by following the instructions [here](https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels).
+
 **I want to read a book not listed - will there be a channel for me in the Slack group?**
 
 No, however you are still encouraged to work through a book or course and share what you've learned on Twitter by using the #SoDS18 hashtag.
