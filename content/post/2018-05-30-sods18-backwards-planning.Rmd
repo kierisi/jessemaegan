@@ -47,7 +47,7 @@ I go down the rabbit hole when I'm either bored or faced with something that fee
 
 ## Mitigating my biggest challenge: time
 
-Making time to participate in the Summer of Data Science 2018 is going to be a challenge for me. There's been a lot of changes in both my personal and professional life - all amazing and wonderful things - but the resulting trajectory puts R firmly in the "hobby" category of my life right now, and in the hobby category R has some _fierce_ competition.
+Making time to participate in the Summer of Data Science 2018 is going to be a challenge for me. There have been a lot of changes in both my personal and professional life - all amazing and wonderful things - but the resulting trajectory puts R firmly in the "hobby" category of my life right now, and in the hobby category R has some _fierce_ competition.
 
 ![](https://media.giphy.com/media/zrgqFogFDV160/giphy.gif)
 
