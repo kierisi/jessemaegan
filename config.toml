@@ -6,7 +6,7 @@
 baseurl = "https://www.jessemaegan.com/"
 
 # Title of your site
-title = "Jesse Maegan"
+title = "Jesse Mostipak"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,12 +53,12 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Jesse Maegan"
-  #role = "TBD"
+  name = "Jesse Mostipak"
+  role = "Managing Director, Data Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "", url = "" } ]
+  organizations = [ { name = "Teaching Trust", url = "https://www.teachingtrust.org/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -236,7 +236,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/kierisi"
+    link = "//github.com/jmostipak"
 
 
 # Navigation Links
@@ -262,10 +262,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
