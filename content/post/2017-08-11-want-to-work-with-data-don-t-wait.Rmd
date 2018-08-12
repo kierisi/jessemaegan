@@ -9,6 +9,9 @@ tags:
   - education
   - learning
   - R
+header:
+  caption: 'A completely biased opinion on how to begin building the foundational skills you need to moe towards a career in data'
+  image: ''
 ---
 
 Data is everywhere, and it seems you can’t go more than 48 hours without hearing how data scientists are going to rule the world--[if only we can train enough of them](https://www.forbes.com/sites/louiscolumbus/2017/05/13/ibm-predicts-demand-for-data-scientists-will-soar-28-by-2020/).
