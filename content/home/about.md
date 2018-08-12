@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
  [[education.courses]]
-   course = "Doctoral Candidate in Immunology & Infectious Diseases"
+   course = "Doctoral Candidate in Immunology & Infectious Diseases, ABD"
    institution = "MSU Bozeman"
    #year = 2012
 
@@ -37,6 +37,6 @@ weight = 5
 
 # Background
 
-Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. While she’s no longer in a traditional classroom, she continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
+Jesse’s foray into data science started with a statistics class in graduate school, where she was first introduced to R. Although her academic career as a molecular biologist didn’t quite pan out, she found herself using data science to inform both her teaching methods and curriculum development as a high school science teacher in NYC. Having moved out of a traditional classroom and into the non-profit space, she continues to combine her passion for public education with her love for data science (and R!) in creative and impactful ways.
 
-Jesse is the founder and community manager for the [R for Data Science Online Learning Community](https://www.jessemaegan.com/post/r4ds-the-next-iteration/), serves on the [GSNETX](http://www.gsnetx.org/) STEM Advisory Board, and is the founder of [RLadies Dallas](https://www.meetup.com/rladies-dallas/).
+Jesse is a cohort 10 member of the [Harvard Strategic Data Project program](https://sdp.cepr.harvard.edu/), a [Datanaut](open.nasa.gov/explore/datanauts/), and serves on the [GSNETX](http://www.gsnetx.org/) STEM Advisory Board.
