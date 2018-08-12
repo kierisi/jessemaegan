@@ -13,7 +13,6 @@ weight = 5
     "Education & Teaching",
     "Data Science Education (with R)",
     "Non-profit Data Science",
-    "Leadership Development & Community Building",
     "Hiking & Mountaineering"
   ]
 
