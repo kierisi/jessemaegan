@@ -100,7 +100,7 @@ What this meant for me was that I had to move from being a learner who was there
 *** 
 
 ![](/img/Slide07.png)
-I taught high school in NYC. I have a master's in education. I know a fair bit about best practices in education. And yet I through all of that experience out the window when it came to managing the R4DS online learning community.
+I taught high school in NYC. I have a master's in education. I know a fair bit about best practices in education. And yet I threw all of that experience out the window when it came to managing the R4DS online learning community.
 
 One of the biggest things I quickly realized is that we can forget about the gap between Excel and R - the gap between using your computer and using R/Rstudio your computer **is very, very real**. Two of the most common reasons people gave for dropping out of the community in the first few weeks were that Slack was overwhelming and/or they didn't understand how to use RStudio.
 
