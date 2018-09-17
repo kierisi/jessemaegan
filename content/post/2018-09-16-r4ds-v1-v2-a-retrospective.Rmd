@@ -131,7 +131,7 @@ While I loved everything that was happening in the group, it was transitioning a
 ***
 
 ![](/img/Slide10.png)
-I've spent a lot of time thinking about how I would do things differently if I had the capacity for a new iteration of the group. And while I haven't thought through all of the details, I'd put [diversity, equity, and inclusion](https://independentsector.org/resource/why-diversity-equity-and-inclusion-matter/) as a driving principle of the group, so that it function as a means for underrepresented populations to move into data science related careers.
+I've spent a lot of time thinking about how I would do things differently if I had the capacity for a new iteration of the group. And while I haven't thought through all of the details, I'd put [diversity, equity, and inclusion](https://independentsector.org/resource/why-diversity-equity-and-inclusion-matter/) as a driving principle of the group, so that it functions as a means for underrepresented populations to move into data science related careers.
 
 Scalability and sustainability are important factors to consider, and I'd keep the group small, using cohorts of less than 100 people. Within the cohorts that would be one to two mentors and four to six learners clustered into a learning pod formed based on time zone, baseline skill proficiency, and timeline to complete the text.
 
