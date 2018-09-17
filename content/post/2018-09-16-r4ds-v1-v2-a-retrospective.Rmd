@@ -77,7 +77,7 @@ Within six months I was asked to join the company on-site in a full-time capacit
 
 Life happens, start-ups shut down, and sometimes you find yourself in Texas as an unemployed data scientist. But hey, it turns out that being able to work with data is a highly employable skill, and within weeks I was working at the Girl Scouts of Northeast Texas. My job title was "Outcomes Analyst," but being able to recognize data science jobs in non-data scientist job titles is 90% of getting your first data science job.
 
-I eventually hit a ceiling at the Girl Scouts, and about a year ago took a job with Teaching Trust, where I'm currently employed. Within a month on the job I realized that I was going to have to get serious about learning data science in a more formal capacity.
+I eventually hit a ceiling at the Girl Scouts, and about a year ago took a job with Teaching Trust*, where I'm currently employed. Within a month on the job I realized that I was going to have to get serious about learning data science in a more formal capacity.
 
 *** 
 ![](/img/Slide04.png)
@@ -146,3 +146,8 @@ It's a lot, yes, and I don't know that I will have the capacity to build somethi
 ![](/img/Slide11.png)
 
 You can find me on **[Twitter](https://twitter.com/kierisi)**
+
+***
+
+* _The views expressed on this Website/blog/network are mine alone and do not
+necessarily represent the views of my employer._
