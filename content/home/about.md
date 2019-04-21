@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Education & Teaching",
-    "Data Science Education (with R)",
+    "Programming & Data Science Education",
     "Non-profit Data Science",
-    "Hiking & Mountaineering"
+    "Combat sports: Boxing, Brazilian Jiu-Jitsu, & Muay Thai"
   ]
 
 # List your qualifications (such as academic degrees).
