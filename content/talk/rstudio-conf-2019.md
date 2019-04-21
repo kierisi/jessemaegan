@@ -1,6 +1,5 @@
 +++
-title = "R4DS Online Learning Community: improvements to self-taught data science 
-and the critical need for diversity, equity, and inclusion in data science education"
+title = "R4DS Online Learning Community: improvements to self-taught data science and the critical need for diversity, equity, and inclusion in data science education"
 #date = 2019-01-17T14:00-14:20  # Schedule page publish date.
 draft = false
 
