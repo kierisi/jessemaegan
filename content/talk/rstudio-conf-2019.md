@@ -10,8 +10,9 @@ time_start = 2019-01-17T14:00-14:20
 #time_end = 2018-03-12T13:36:24-06:00
 
 # Abstract and optional shortened version.
-# abstract = ""
-# abstract_short = ""
+abstract = ""
+abstract_short = "R for Data Science (R4DS) Online Learning Community: lessons 
+learned"
 
 # Name of event and optional event URL.
 event = "rstudio::conf2019"
@@ -34,10 +35,10 @@ projects = []
 tags = ["R", "community", "data science", "education"]
 
 # Links (optional).
-# url_pdf = ""
-# url_slides = ""
-# url_video = ""
-# url_code = ""
+url_pdf = ""
+url_slides = ""
+url_video = "https://resources.rstudio.com/rstudio-conf-2019/r4ds-online-learning-community-improvements-to-self-taught-data-science-and-the-critical-need-for-diversity-equity-and-inclusion-in-data-science-education"
+url_code = ""
 
 # Does the content use math formatting?
 math = false
