@@ -10,8 +10,7 @@ time_start = 2019-01-17T14:00:00-14:20
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "R for Data Science (R4DS) Online Learning Community: lessons 
-learned"
+abstract_short = "R for Data Science (R4DS) Online Learning Community: lessons learned"
 
 # Name of event and optional event URL.
 event = "rstudio::conf2019"
@@ -53,13 +52,5 @@ caption = ""
 
 +++
 
-The first iteration of the R4DS Online Learning Community was 
-created as an online space for learners and mentors to gather and work through 
-the "R for Data Science" text in a collaborative and supportive environment. The
-creation of this group was inspired by my own success in transitioning to a 
-career in data science coupled with the resources that I wanted to see in the R 
-programming space. This talk will go through the learnings of creating an online
-learning space focused on R programming for data science, and how future 
-iterations of similar groups can more proactively center on bringing about 
-diversity, equity, and inclusion to data science spaces.
+The first iteration of the R4DS Online Learning Community was created as an online space for learners and mentors to gather and work throughthe "R for Data Science" text in a collaborative and supportive environment. The creation of this group was inspired by my own success in transitioning to a career in data science coupled with the resources that I wanted to see in the R programming space. This talk will go through the learnings of creating an online learning space focused on R programming for data science, and how futureiterations of similar groups can more proactively center on bringing about diversity, equity, and inclusion to data science spaces.
 
