@@ -13,22 +13,22 @@ weight = 5
     "Education & Teaching",
     "Programming & Data Science Education",
     "Non-profit Data Science",
-    "Combat sports: Boxing, Brazilian Jiu-Jitsu, & Muay Thai"
+    "Brazilian Jiu-Jitsu"
   ]
 
 # List your qualifications (such as academic degrees).
  [[education.courses]]
-   course = "Doctoral Candidate in Immunology & Infectious Diseases, ABD"
+   course = "Doctoral Candidate, Immunology & Infectious Diseases, ABD"
    institution = "MSU Bozeman"
    #year = 2012
 
 [[education.courses]]
-  course = "MA in Secondary Science Education"
+  course = "MA, Secondary Science Education"
   institution = "CUNY Hunter"
   year = 2012
 
 [[education.courses]]
-  course = "BSc in Biochemistry"
+  course = "BSc, Biochemistry"
   institution = "Northland College"
   year = 2007
  
