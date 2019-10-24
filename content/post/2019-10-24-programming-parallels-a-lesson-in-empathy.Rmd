@@ -1,6 +1,6 @@
 ---
 title: 'Programming parallels: a lesson in empathy'
-author: 
+author: 'Jesse'
 date: '2019-10-24'
 slug: programming-parallels-a-lesson-in-empathy
 categories: []
