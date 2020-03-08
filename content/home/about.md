@@ -36,7 +36,7 @@ weight = 5
 
 # Background
 
-:avocado: Developer Advocate || Kaggle   
-:woman_technologist: Educator || data science + culturally responsive pedagogy  
-:mountain: Learning adventures || python + deep learning + TPUs
+Developer Advocate || Kaggle   
+Educator || data science + culturally responsive pedagogy  
+Learning adventures || python + deep learning + TPUs
 
