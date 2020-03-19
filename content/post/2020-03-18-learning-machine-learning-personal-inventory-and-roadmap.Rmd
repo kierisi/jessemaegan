@@ -1,0 +1,82 @@
+---
+title: 'Learning Machine Learning: Personal Inventory and Roadmap'
+author: Jesse Mostipak
+date: '2020-03-18'
+slug: learning-machine-learning-personal-inventory-and-roadmap
+categories: []
+tags:
+  - data science
+  - education
+  - learning
+  - learning to learn
+  - online learning
+  - teaching yourself
+  - python
+  - machine learning
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+## Have you ever played Civ?
+<!-- show, don't tell -->
+Like most video games, I'd heard everyone rave about Civ, but had no idea what was involved in the gameplay.
+The first Civ game that I played? 
+I quit within the first 15 minutes because -- wait for it -- I thought the map was broken.
+I didn't play another Civ game for over three years, until all of a sudden I realize i's 2:36AM and I'm bleary-eyed, wiping the crumbs off my desk, and swearing "just one more turn."
+
+## Civ Map <> Learning Map
+What I didn't realize at the time was that with each turn you play in Civ, you begin to progressively uncover more and more of the map, until you've uncovered everything, and can get a full lay of the land.
+To me there's no greater metaphor for your personal learning journey than uncovering the map in Civ. 
+So many of us set out to become "data scientists" or "machine learning engineers" because they seem like _really cool things to do_ (and they are).
+And while there might be some general landmarks (folks recommending this book or this class), no one knows your personal learning map - it's something that you have to uncover as you go.
+
+But like Civ, you have to pick a direction (or two) and go. 
+<!-- no, spell this out better - show, don't tell -->
+You can't spend the first 150 turns building Scouts just to uncover the map (I mean you _can_ - but I'd argue you're wasting precious time and resources, and leaving yourself very vulnerable to attack.)
+
+## My Learning Map: general landmarks
+I've spent a lot of time uncovering my map. 
+Like, a _lot_ of time.
+Something about management -- wanting to develop more technical skills, but never _needing_ to develop technical skills
+Kaggle + personal interests led to general landmarks:
+- Deep Learning (why: machine-learning//deep-learning generated art & music)
+- Magenta//NSynth
+- ???
+
+## My Learning Map: navigation
+Even if you have your general landmarks, no one necessarily knows the best way for you to reach them.
+This is why you see so many forum posts about things like "R or Python?" "PyTorch or TensorFlow?"
+What do I need _right now_ vs what will be nice to have _in the future_?
+
+- Course(s)
+- Books
+- Meetups
+- Blogs
+- Twitter
+
+## Two quick pointers
+
+### Don't let perfect be the enemy of good 
+Talk about the Civilization map art project idea and how that delayed this initial post for over three weeks.
+
+### Procrastiplanning
+It's useless unless you've uncovered your map, and you can't uncover your map 
+
+## What I can promise you
+Weekly updates that focus on:
+
+- What I learned
+- How I learned it (resources used)
+- What I'm wondering
+- What I'm stuck on
+- What I'm planning to work on in the next week
+
+- Know: a recap of the learning materials I used during the week and what I've learned
+- Want to Know: a rough outline of the material I hope to cover in the upcoming week 
+- Learned: a reflection on what I've learned, what I'm stuck on
+
+## Learn With Me!
+Best format?
+Twitter (for now)
