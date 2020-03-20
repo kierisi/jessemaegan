@@ -1,82 +1,92 @@
 ---
-title: 'Learning Machine Learning: Personal Inventory and Roadmap'
+title: Sid Meier's Civilization and My Machine Learning Path
 author: Jesse Mostipak
 date: '2020-03-18'
-slug: learning-machine-learning-personal-inventory-and-roadmap
-categories: []
 tags:
   - data science
   - education
   - learning
   - learning to learn
-  - online learning
-  - teaching yourself
-  - python
   - machine learning
+  - online learning
+  - python
+  - teaching yourself
+slug: learning-machine-learning-personal-inventory-and-roadmap
 header:
   caption: ''
   image: ''
   preview: yes
 ---
 
-## Have you ever played Civ?
+## Have you ever played [Civ](https://civilization.com/)?
 <!-- show, don't tell -->
-Like most video games, I'd heard everyone rave about Civ, but had no idea what was involved in the gameplay.
-The first Civ game that I played? 
-I quit within the first 15 minutes because -- wait for it -- I thought the map was broken.
-I didn't play another Civ game for over three years, until all of a sudden I realize i's 2:36AM and I'm bleary-eyed, wiping the crumbs off my desk, and swearing "just one more turn."
+You start the game by choosing your historical figure, set up your gameplay, and are suddenly dropped in the middle of nowhere.
+Well, you're _somewhere_ - but everything on the map is obscured, completely shrouded in an impenetrable fog.
+Which in a lot of ways is what it feels like when you decide that this is it.
+This time you're going to learn Data Science//Machine Learning//AI//Deep Learning//the "it" thing of the moment.
+And if you're like me and my first attempts at both Civ and Machine Learning, it feels a lot like this:
+
+![Drawing of a person staring at a bunch of clouds and asking "hey, uh, is it supposed to look like this?"](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/what_is_this.jpg){width=650px}
 
 ## Civ Map <> Learning Map
+The first time I played Civ I thought the map was broken, so I quit and didn't touch the game again for three years.
 What I didn't realize at the time was that with each turn you play in Civ, you begin to progressively uncover more and more of the map, until you've uncovered everything, and can get a full lay of the land.
 To me there's no greater metaphor for your personal learning journey than uncovering the map in Civ. 
 So many of us set out to become "data scientists" or "machine learning engineers" because they seem like _really cool things to do_ (and they are).
 And while there might be some general landmarks (folks recommending this book or this class), no one knows your personal learning map - it's something that you have to uncover as you go.
 
-But like Civ, you have to pick a direction (or two) and go. 
-<!-- no, spell this out better - show, don't tell -->
-You can't spend the first 150 turns building Scouts just to uncover the map (I mean you _can_ - but I'd argue you're wasting precious time and resources, and leaving yourself very vulnerable to attack.)
+One strategy is to spend your first couple hundred turns building nothing but Scouts and sending them out into the world until you completely uncover the map.
+And on the one hand this seems somewhat reasonable, because you'll know everything that's out there before committing your resources to a specific win condition. 
+This strategy isn't unlike the procrastiplanning I'm guilty of.
+Rather than jumping in and trying to learn something, I can spend weeks and even months charting out the perfect learning path.
+"Once I have this perfect path I'll be ready to learn! It's foolproof! I AM A GENIUS!" I tell myself as I Google another "best way to learn Python _for real_" resource.
 
-## My Learning Map: general landmarks
+But this strategy can leave you vulnerable and exposed, and it's an awful lot of time you've spent not learning.
+And honestly, there are only so many Venn diagrams you can look at.
+
+![A drawing of a person standing in front of a large, complex Venn diagram](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/venn_diagram_use.jpg){width=650px}
+
+## My Landmarks: Deep Learning and Magenta's NSynth Super
 I've spent a lot of time uncovering my map. 
 Like, a _lot_ of time.
-Something about management -- wanting to develop more technical skills, but never _needing_ to develop technical skills
-Kaggle + personal interests led to general landmarks:
-- Deep Learning (why: machine-learning//deep-learning generated art & music)
-- Magenta//NSynth
-- ???
+And I don't have a perfect learning plan - I don't think I ever did.
+Instead I have a couple of general landmarks that I know I want to work towards, and a good understanding of where I'm starting.
 
-## My Learning Map: navigation
-Even if you have your general landmarks, no one necessarily knows the best way for you to reach them.
-This is why you see so many forum posts about things like "R or Python?" "PyTorch or TensorFlow?"
-What do I need _right now_ vs what will be nice to have _in the future_?
+What changed for me was encountering two resources that cleared some of the fog from my landmarks.
+The first was Janelle Shane's ["You Look Like A Thing And I Love You"](https://www.janelleshane.com/book-you-look-like-a-thing), which explores the absurdities of what you can create with AI, and the second was [NSynth Super project from Magenta](https://nsynthsuper.withgoogle.com/). 
+I learned about the NSynth Super from this [Nat & Friends](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A) video, and as soon as the video was finished playing I was hooked - I _needed_ to learn how to do this.
 
-- Course(s)
-- Books
-- Meetups
-- Blogs
-- Twitter
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "BOoSy-Pg8is")
+```
 
-## Two quick pointers
+But even when some of your landmarks are visible, it doesn't mean that the path is clear, or that it isn't scary, or that you're entirely confident that you can _reach_ your landmarks.
+It's kind of like playing single-player mode in a video game that you know nothing about.
+You _might_ have a lot of fun, but you might also be frustrated and confused, and eventually hit a barrier that you don't know how to overcome.
 
-### Don't let perfect be the enemy of good 
-Talk about the Civilization map art project idea and how that delayed this initial post for over three weeks.
+![Drawing of a person standing in front of a landscape. In the foreground is a path that says Python, and it leads to two mountains, one labeled "deep learning" and another labeled "Magenta." There are also unlabeled peaks, and text across the distant horizon says "cool things I don't even know that I don't know!" Many parts of the path are obscured by trees and clouds.](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/single_player.jpg){width=650px}
 
-### Procrastiplanning
-It's useless unless you've uncovered your map, and you can't uncover your map 
+## Play Multi-player When You Can
+Your learning map is probably going to look different from mine, because you're a different person with different goals and a different background! 
+But that doesn't mean that we're both not on a learning journey together.
+Sometimes you're going to have to learn on your own, but as often as possible, reach out to your community.
 
-## What I can promise you
-Weekly updates that focus on:
+I have many crises of confidence - sometimes I spend entire days near tears because my landmarks feel so far away, the path is overgrown and dark, and I simply don't want to do this anymore.
+But I also have people I can reach out to, from friends who can empathize with me to online forums where I can ask for help.
+You have to be tenacious to learn.
+It won't always be easy, but it will always be worth it.
 
-- What I learned
-- How I learned it (resources used)
-- What I'm wondering
-- What I'm stuck on
-- What I'm planning to work on in the next week
-
-- Know: a recap of the learning materials I used during the week and what I've learned
-- Want to Know: a rough outline of the material I hope to cover in the upcoming week 
-- Learned: a reflection on what I've learned, what I'm stuck on
+![Drawing of a person standing in front of supportive text messages that say things like "Keep going!" and "Psst! I have memes!" and "Be careful! That spot can be challenging."](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/multiplayer_use.jpg){width=650px}
 
 ## Learn With Me!
-Best format?
-Twitter (for now)
+Every week I'll be posting a round-up of my learning journey. I'll be sharing:
+
+- What I learned
+- How I learned it (both the resources I used as well as learning techniques)
+- What I'm wondering
+- What I'm stuck on
+- What I'm planning to work on in the upcoming week
+
+## Learn With Me!
+I truly believe that we learn better when we learn together! 
+I'd love to hear what your landmarks are and how your learning journey is going, and the best place to do that is to start the conversation on [Twitter](www.twitter.com/kierisi).
