@@ -26,7 +26,7 @@ Which in a lot of ways is what it feels like when you decide that this is it.
 This time you're going to learn Data Science//Machine Learning//AI//Deep Learning//the "it" thing of the moment.
 And if you're like me and my first attempts at both Civ and Machine Learning, it feels a lot like this:
 
-![Drawing of a person staring at a bunch of clouds and asking "hey, uh, is it supposed to look like this?"](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/what_is_this.jpg){width=650px}
+![](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/what_is_this.jpg){width=650px}
 
 ## Civ Map <> Learning Map
 The first time I played Civ I thought the map was broken, so I quit and didn't touch the game again for three years.
@@ -44,7 +44,7 @@ Rather than jumping in and trying to learn something, I can spend weeks and even
 But this strategy can leave you vulnerable and exposed, and it's an awful lot of time you've spent not learning.
 And honestly, there are only so many Venn diagrams you can look at.
 
-![A drawing of a person standing in front of a large, complex Venn diagram](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/venn_diagram_use.jpg){width=650px}
+![](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/venn_diagram_use.jpg){width=650px}
 
 ## My Landmarks: Deep Learning and Magenta's NSynth Super
 I've spent a lot of time uncovering my map. 
@@ -60,11 +60,12 @@ I learned about the NSynth Super from this [Nat & Friends](https://www.youtube.c
 blogdown::shortcode("youtube", "BOoSy-Pg8is")
 ```
 
+
 But even when some of your landmarks are visible, it doesn't mean that the path is clear, or that it isn't scary, or that you're entirely confident that you can _reach_ your landmarks.
 It's kind of like playing single-player mode in a video game that you know nothing about.
 You _might_ have a lot of fun, but you might also be frustrated and confused, and eventually hit a barrier that you don't know how to overcome.
 
-![Drawing of a person standing in front of a landscape. In the foreground is a path that says Python, and it leads to two mountains, one labeled "deep learning" and another labeled "Magenta." There are also unlabeled peaks, and text across the distant horizon says "cool things I don't even know that I don't know!" Many parts of the path are obscured by trees and clouds.](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/single_player.jpg){width=650px}
+![](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/single_player.jpg){width=650px}
 
 ## Play Multi-player When You Can
 Your learning map is probably going to look different from mine, because you're a different person with different goals and a different background! 
@@ -76,7 +77,7 @@ But I also have people I can reach out to, from friends who can empathize with m
 You have to be tenacious to learn.
 It won't always be easy, but it will always be worth it.
 
-![Drawing of a person standing in front of supportive text messages that say things like "Keep going!" and "Psst! I have memes!" and "Be careful! That spot can be challenging."](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/multiplayer_use.jpg){width=650px}
+![](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/multiplayer_use.jpg){width=650px}
 
 ## Learn With Me!
 Every week I'll be posting a round-up of my learning journey. I'll be sharing:
