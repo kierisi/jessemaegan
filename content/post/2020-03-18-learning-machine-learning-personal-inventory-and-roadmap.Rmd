@@ -39,7 +39,7 @@ One strategy is to spend your first couple hundred turns building nothing but Sc
 On the one hand this seems somewhat reasonable, because after awhile you'll know everything that's out there and _then_ you can start committing your resources to a specific win condition. 
 This strategy isn't unlike the procrastiplanning I'm guilty of, where rather than jumping in and trying to learn something, I  spend weeks and even months charting out the perfect learning path.
 
->"Once I have this perfect path I'll be ready to learn! It's foolproof! I AM A GENIUS!" I tell myself as I Google another "best way to learn Python _for real_" resource.
+>"Once I have this perfect path I'll be ready to learn! It's foolproof! I AM A GENIUS!" I tell myself as I Google another "best way to learn Python _for real this time_" resource.
 
 But this strategy can leave you vulnerable and exposed, and it's an awful lot of time you've spent _not_ learning.
 And honestly, there are only so many Venn diagrams you can look at.
