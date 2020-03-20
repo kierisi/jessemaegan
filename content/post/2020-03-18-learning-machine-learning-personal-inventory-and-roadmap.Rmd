@@ -80,7 +80,7 @@ It won't always be easy, but it will always be worth it.
 ![](/post/2020-03-18-learning-machine-learning-personal-inventory-and-roadmap_files/multiplayer_use.jpg){width=650px}
 
 ## Learn With Me!
-Every week I'll be posting a round-up of my (deep learning) learning journey. I'll be sharing:
+Every week I'll be posting a round-up of my (machine and deep learning) learning journey. I'll be sharing:
 
 - What I learned
 - How I learned it (both the resources I used as well as learning techniques)
