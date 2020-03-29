@@ -36,7 +36,7 @@ weight = 5
 
 # Background
 
-Developer Advocate || Kaggle   
-Educator || data science + culturally responsive pedagogy  
-Learning adventures || python + deep learning + TPUs
+Community Advocate || Kaggle   
+Educator || Data Science + Culturally Responsive Pedagogy  
+Learning Adventures || Python + Deep Learning + TPUs
 
