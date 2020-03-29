@@ -88,6 +88,5 @@ Every week I'll be posting a round-up of my (machine and deep learning) learning
 - What I'm stuck on
 - What I'm planning to work on in the upcoming week
 
-## Learn With Me!
 I truly believe that we learn better when we learn together. 
 I'd love to hear what your landmarks are and how your learning journey is going, and the best place to do that is to start the conversation on [Twitter](www.twitter.com/kierisi)!
