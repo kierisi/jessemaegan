@@ -46,7 +46,7 @@ First of all, installing everything sucks (you're going to need the command line
 1. Already know Python 
 2. Have never written a line of code
 
-And if you look online everyone it can feel like everyone is talking about how _easy_ Python is, and how elegant and beautiful it is, and it just kind of makes me feel worse for not "getting it" when I so desperately _want_ to "get it" and am _actively trying_ to "get it."
+And if you look online it can feel like everyone is talking about how _easy_ Python is, and how elegant and beautiful it is, and it just kind of makes me feel worse for not "getting it" when I so desperately _want_ to "get it" and am _actively trying_ to "get it."
 
 ## Why do you need to learn Python if you already know R?
 Ah, the million-dollar question! 
