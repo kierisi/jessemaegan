@@ -16,7 +16,7 @@ header:
   image: ''
   preview: yes
 ---
-```{r}
+```{r echo=FALSE}
 blogdown::shortcode('tweet', '1256454640901783553')
 ```
 
