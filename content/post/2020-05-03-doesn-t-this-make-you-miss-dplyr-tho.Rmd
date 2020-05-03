@@ -61,4 +61,8 @@ my mind reads the `pandas` code as:
 
 My `pandas` statement is still a work in progress, and more verbose than it likely needs to be, but illustrates how we're getting to the same destination using different paths.
 
+<<<<<<< HEAD
 I've only just started to scratch the surface of `pandas`, but am starting to get a handle on things and excited to see where it takes me!
+=======
+I've only just started to scratch the surface of `pandas`, but am starting to get a handle on things and excited to see where it takes me!
+>>>>>>> 09a43bbbbbedc867fe6d9b7f54027bc3a77a0d45
