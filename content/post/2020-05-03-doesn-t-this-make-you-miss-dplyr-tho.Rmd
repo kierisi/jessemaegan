@@ -16,7 +16,7 @@ header:
   image: ''
   preview: yes
 ---
-```{r echo=FALSE}
+```{r}
 blogdown::shortcode('tweet', '1256454640901783553')
 ```
 
@@ -35,13 +35,13 @@ And what I actually _like_ about `pandas` is that it's written differently enoug
 
 For example, here's the code I wrote in `pandas`:
 
-```{r echo=FALSE, eval=FALSE}
+```{r error=FALSE}
 top_oceania_wines = reviews.loc[reviews.country.isin(['Australia', 'New Zealand']) & (reviews.points >= 95)]
 ```
 
 And if I had written it using `dplyr` I'd do something like:
 
-```{r echo=FALSE, eval=FALSE}
+```{r error=FALSE}
 top_oceania_wines <- reviews %>% 
   filter(country %in% c("Australia", "New Zealand"),
          points >= 95)
