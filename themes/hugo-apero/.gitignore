@@ -1,5 +1,5 @@
-*.DS_Store
-public/
-resources/
-node_modules/
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
