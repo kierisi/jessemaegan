@@ -15,22 +15,29 @@ header:
   preview: yes
 ---
 
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <div id="the-challenge" class="section level2">
 <h2>The challenge</h2>
-<p>One skill that all great educators possess is the ability to ask questions. Asking the right questions at the right time of the learners in your classroom can facilitate understanding, uncover misconceptions, and indicate whether or not learners have mastered the material.</p>
-<p>However, when you’re learning on your own you have to simultaneously fill the roles of both learner and educator, and not only know both how and when to ask yourself questions, but also answer your questions, evaluate your answers, and redirect your learning path as you progress.</p>
+<p>One skill that all great educators possess is the ability to ask questions.
+Asking the right questions at the right time of the learners in your classroom
+can facilitate understanding, uncover misconceptions, and indicate whether or
+not learners have mastered the material.</p>
+<p>However, when you’re learning on your own you have to simultaneously fill the
+roles of both learner and educator, and not only know both how and when to ask
+yourself questions, but also answer your questions, evaluate your answers, and redirect your learning path as you progress.</p>
 </div>
 <div id="encountering-coalesce" class="section level2">
 <h2>Encountering coalesce</h2>
-<p>Rather than rehash all the ways that one can develop and deliver questions (check out <a href="https://teachlikeachampion.com/books/teach-like-champion-2-0">Doug Lemov’s “Teach Like a Champion 2.0”</a> if you’re interested in more information), I wanted to do a quick walkthrough of both my code as well as thought process when I encountered the <code>coalesce()</code> function this evening.</p>
+<p>Rather than rehash all the ways that one can develop and deliver questions (check out <a href="https://teachlikeachampion.com/books/teach-like-champion-2-0">Doug Lemov’s “Teach Like a Champion 2.0”</a>
+if you’re interested in more
+information), I wanted to do a quick walkthrough of both my code as well as
+thought process when I encountered the <code>coalesce()</code> function this evening.</p>
 <p>I noticed use of the <code>coalesce()</code> function while I was reading through <a href="https://github.com/sfirke/janitor">the vignette for the <code>janitor</code> package</a>:</p>
-<div class="figure">
-<img src="https://i.imgur.com/XO0JSgZ.png" />
-
-</div>
-<p><strong>Thought:</strong> hmm. I’ve definitely <em>seen</em> <code>coalesce()</code> before, but I don’t know what it does.</p>
+<p><img src="https://i.imgur.com/XO0JSgZ.png" /></p>
+<p><strong>Thought:</strong> hmm. I’ve definitely <em>seen</em> <code>coalesce()</code> before, but I don’t know
+what it does.</p>
 <p><strong>Action:</strong> open RStudio and run the following code:</p>
 <pre class="r"><code># install the dplyr package if you don&#39;t have it
 # install.packages(dplyr)  
@@ -40,8 +47,11 @@ library(dplyr)
 
 # pull up the Help page for the coalesce function
 ?coalesce</code></pre>
-<p>Once I’ve got the <code>coalesce()</code> Help page open I’ve got some good information at my disposal. The title and description give me some clue as to what’s happening in this function.</p>
-<p><strong>Question to self:</strong> based on the information in the title and description, could you explain to someone what the <code>coalesce()</code> function does?</p>
+<p>Once I’ve got the <code>coalesce()</code> Help page open I’ve got some good information at
+my disposal. The title and description give me some clue as to what’s happening
+in this function.</p>
+<p><strong>Question to self:</strong> based on the information in the title and description,
+could you explain to someone what the <code>coalesce()</code> function does?</p>
 <p><em>lolnope!</em></p>
 </div>
 <div id="inside-my-brain-case-exploring-coalesce" class="section level2">
@@ -49,28 +59,29 @@ library(dplyr)
 <p>OK, let’s look at what the first example in the Help documentation does:</p>
 <pre class="r"><code>x &lt;- sample(c(1:5, NA, NA, NA))
 coalesce(x, 0L)</code></pre>
-<pre><code>## [1] 5 2 0 0 0 3 4 1</code></pre>
+<pre><code>## [1] 2 0 5 4 3 1 0 0</code></pre>
 <p>I think that makes sense. I know that <code>sample()</code> is going to give me eight values with three <code>NA</code> values and the numbers 1 - 5.</p>
 <p><em><strong>But what happens if I use an integer besides 0?</strong></em><br />
 I’m wondering if the 0L is replacing the <code>NA</code> values with 0. If that’s the case, then the <code>NA</code> values should be replaced with any integer that I feed into the <code>coalesce()</code> function. Let’s use an intentionally larger number so that it’s easy to visually discern:</p>
 <pre class="r"><code>coalesce(x, 928L)</code></pre>
-<pre><code>## [1]   5   2 928 928 928   3   4   1</code></pre>
+<pre><code>## [1]   2 928   5   4   3   1 928 928</code></pre>
 <p>That works!</p>
 <p><strong>What happens if I use different values to replace the <code>NA</code> values?</strong><br />
 I’m assuming that I can only use integers since I’m working with <a href="http://adv-r.had.co.nz/Data-structures.html">vectors instead of lists</a>, but let’s check that assumption with a character string:</p>
 <pre class="r"><code>coalesce(x, &quot;rabbit&quot;)</code></pre>
-<pre><code>## Error: Argument 2 must be an integer vector, not a character vector</code></pre>
+<pre><code>## Error: Can&#39;t combine `..1` &lt;integer&gt; and `..2` &lt;character&gt;.</code></pre>
 <p>What about a double?</p>
 <pre class="r"><code>coalesce(x, 9.8)</code></pre>
-<pre><code>## Error: Argument 2 must be an integer vector, not a double vector</code></pre>
+<pre><code>## [1] 2.0 9.8 5.0 4.0 3.0 1.0 9.8 9.8</code></pre>
 <p>OK, but do I <em>really</em> have to specify an integer?</p>
 <pre class="r"><code>coalesce(x, 5)</code></pre>
-<pre><code>## Error: Argument 2 must be an integer vector, not a double vector</code></pre>
+<pre><code>## [1] 2 5 5 4 3 1 5 5</code></pre>
 <p>(Yes.)</p>
 <p>Let’s confirm:</p>
 <pre class="r"><code>coalesce(x, 5L)</code></pre>
-<pre><code>## [1] 5 2 5 5 5 3 4 1</code></pre>
-<p>Great! I feel comfortable with the first worked example, but want to check out the second, because it looks like something I could use in my own work:</p>
+<pre><code>## [1] 2 5 5 4 3 1 5 5</code></pre>
+<p>Great! I feel comfortable with the first worked example, but want to check out
+the second, because it looks like something I could use in my own work:</p>
 <pre class="r"><code>y &lt;- c(1, 2, NA, NA, 5)
 z &lt;- c(NA, NA, 3, 4, 5)
 coalesce(y, z)</code></pre>
