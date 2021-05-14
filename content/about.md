@@ -36,7 +36,7 @@ weight = 5
 
 # Background
 
-Community Advocate || Kaggle   
-Educator || Data Science + Culturally Responsive Pedagogy  
-Learning Adventures || Python + Deep Learning + TPUs
+Data Science Evangelist || RStudio   
+Content Creator || Data Science Storytelling & Getting Started with R   
+Learning Adventures || Animation, Illustration, & Design
 
