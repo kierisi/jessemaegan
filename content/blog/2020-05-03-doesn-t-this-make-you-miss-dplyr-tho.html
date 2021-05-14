@@ -1,0 +1,56 @@
+---
+title: Doesn't this make you miss dplyr tho?
+author: Jesse
+date: '2020-05-03'
+slug: doesn-t-this-make-you-miss-dplyr-tho
+categories: []
+tags:
+  - data science
+  - learning
+  - learning to learn
+  - python
+  - R
+  - teaching yourself
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>{{% tweet "1256454640901783553" %}}</p>
+<p>Listen I’m as surprised as you.
+I’m on record in multiple places talking about how much I love <code>dplyr</code>.
+I’ve referred to it as “my favorite package” more than once, and have definitely said that you could pry it “from my cold, dead hands.”
+<code>dplyr</code> is a fantastic package for data manipulation, and has been the primary workhorse in my analytics workflow for the past few years.</p>
+<p>But now it’s time for <code>pandas</code> - the Python equivalent of <code>dplyr</code> - and something about <code>pandas</code> clicked <em>just enough</em> for me that I for once found myself working in Python and not missing R.</p>
+<div id="different-enough-is-perfect-for-learning" class="section level2">
+<h2>“Different enough” is perfect for learning</h2>
+<p>Once I thought I could learn Portuguese and Spanish at the same time <em>(I know)</em>, and as I was talking with a friend from Brazil he just started laughing and said “You’ve used English, Spanish, and Portuguese all in a single sentence.”</p>
+<p>What “clicked” for me in <code>pandas</code> was accepting it for what it was - the Python way of manipulating data.
+And what I actually <em>like</em> about <code>pandas</code> is that it’s written differently enough than <code>dplyr</code> that the learning doesn’t get muddled.</p>
+<p>For example, here’s the code I wrote in <code>pandas</code>:</p>
+<pre><code>top_oceania_wines = reviews.loc[reviews.country.isin([&#39;Australia&#39;, &#39;New Zealand&#39;]) &amp; (reviews.points &gt;= 95)]</code></pre>
+<p>And if I had written it using <code>dplyr</code> I’d do something like:</p>
+<pre><code>top_oceania_wines &lt;- reviews %&gt;% 
+  filter(country %in% c(&quot;Australia&quot;, &quot;New Zealand&quot;),
+         points &gt;= 95)</code></pre>
+</div>
+<div id="mental-models" class="section level2">
+<h2>Mental models</h2>
+<p>I believe that programming is a literacy, and as such, a lot of how we teach literacy can be used to teach programming.
+This is part of what makes the <code>tidyverse</code> so powerful as an entry to programming in data science - its syntax readily lends itself to literacy parallels that we’re already familiar with.
+<code>pandas</code> isn’t written in the same way, which means that what needed to happen for me to start understanding <code>pandas</code> was to start building up a mental model of how to “read” the code.</p>
+<p>Whereas I’d read the above <code>dplyr</code> code as:</p>
+<blockquote>
+<p>Create a tibble named <code>top_oceania_wines</code> by taking the <code>reviews</code> tibble then filtering for Australia or New Zealand in the <code>country</code> column AND values of at least 95 in the <code>points</code> column.</p>
+</blockquote>
+<p>my mind reads the <code>pandas</code> code as:</p>
+<blockquote>
+<p>Create a DataFrame named <code>top_oceania_wines</code> by returning the rows within the <code>country</code> column in the <code>reviews</code> DataFrame that match either Australia or New Zealand AND the rows within the <code>points</code> column in the <code>reviews</code> DataFrame that have a value of at least 95.</p>
+</blockquote>
+<p>My <code>pandas</code> statement is still a work in progress, and more verbose than it likely needs to be, but illustrates how we’re getting to the same destination using different paths.</p>
+<p>I’ve only just started to scratch the surface of <code>pandas</code>, but am starting to get a handle on things and am excited to see where it takes me!</p>
+</div>
