@@ -1,19 +1,16 @@
 ---
-action_label: Read More &rarr;
+action_label: Let's go! &rarr;
 action_link: /about
 action_type: text
-description: Welcome to the documentation site for the Hugo Apéro (*a-pay-ROH*) theme!
-  Inside, you'll find how to get started building a new site with this theme. You'll
-  learn a bit about Hugo, and a lot about what makes this theme unique and, we hope,
-  fun to get to know. Bon apéro!
+description: Hello and welcome! Inside you'll find many of my projects. While I have historically focused on content aimed at helping beginners get started with data science using R, going forward the scope of this site will be expanding. Over time I'll be including more data science and machine learning content using both R and Python (still aimed at beginners!) as well as breakdowns on the #TidyTuesday soirée. But I'll also be bringing you along on my foray into the animation program at RISD as well as how I'm using animation to bring programming, data science, and machine learning concepts to life.
 image_left: false
 images:
-- img/voir.jpg
+- img/profile.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Data Science & Machine Learning content creator
 text_align_left: true
-title: Hugo Apéro
+title: Jesse Mostipak
 ---
 
 ** index doesn't contain a body, just front matter above.
