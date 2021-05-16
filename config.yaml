@@ -46,23 +46,26 @@ params:
   orgName: RStudio
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/hugo-apero/
     - icon: twitter
       icon_pack: fab
-      url: https://twitter.com/apreshill
+      url: https://twitter.com/kierisi
     - icon: youtube
       icon_pack: fab
-      url: https://youtube.com/playlist?list=PLzxicn7kBeay3kTPuTQ9lSi7I5jfWmEwc
-    - icon: address-card
-      icon_pack: fas
-      url: https://hugo-apero.netlify.app/
+      url: https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA
+    - icon: twitch
+      icon_pack: fab
+      url: https://www.twitch.tv/kierisi  
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/kierisi
+    # - icon: address-card
+    #   icon_pack: fas
+    #   url: https://hugo-apero.netlify.app/
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: peach
-  twitter: apreshill
+  theme: sky
+  twitter: kierisi
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
@@ -83,10 +86,10 @@ menu:
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
+    # - name: Contributors
+    #   title: Contributors
+    #   url: /contributors/
+    #   weight: 3
   header:
     - name: About
       title: About Apéro
@@ -104,10 +107,10 @@ menu:
       title: Talks
       url: /talk/
       weight: 4
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+    # - name: Elements
+    #   title: Element Page
+    #   url: /elements/
+    #   weight: 6
 privacy:
   disqus:
     disable: no
