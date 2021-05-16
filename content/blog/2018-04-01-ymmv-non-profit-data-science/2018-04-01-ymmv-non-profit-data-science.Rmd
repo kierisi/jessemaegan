@@ -1,0 +1,89 @@
+---
+title: 'YMMV: non-profit data science'
+author: Jesse M
+date: '2018-04-01'
+slug: ymmv-non-profit-data-science
+categories: []
+tags:
+  - data science
+  - non-profits
+  - volunteer
+---
+_(YMMV = your mileage may vary)_
+
+## Introduction
+
+Feeling inspired by some recent data science collaborations, on Friday I released the following tweet into the wild:  
+
+`r htmltools::HTML("{{< tweet 979772042525528064 >}}")`  
+
+Publicly it seemed to garner a good deal of positive attention, although I did also receive some valid criticism via DMs. All of this combined got me thinking about the best way to address sharing (and building) your data science skills by volunteering with a non-profit organization (NPO).  
+
+*** 
+
+## What you should know about NPOs
+This section was originally intended to focus on addressing the common myths and misconceptions about working in a non-profit organization, but that's already been (extremely well) done by:  
+
+  * [The National Council of Nonprofits](https://www.councilofnonprofits.org/myths-about-nonprofits)  
+  * [Berkeley](https://career.berkeley.edu/Nonprofit/NPMyths)  
+  * [US News](https://money.usnews.com/money/blogs/outside-voices-careers/2011/10/24/10-myths-about-nonprofit-work)   
+  * [Northeastern](https://www.northeastern.edu/careers/blog/5-common-misconceptions-about-the-nonprofit-sector/)  
+
+What I will add to the above is the observation that those of us working in non-profits do so with the aim of doing our job so well that we achieve our organization's vision and ultimately put ourselves out of work. A world that doesn't need a non-profit to address homelessness, or educational inequity, or any other of the countless issues because these issues have been resolved through our efforts is a better world indeed.    
+
+*** 
+
+## Getting involved with existing data science volunteer organizations
+The following organizations offer opportunities to volunteer your data science skills with non-profit organizations. These are all great ways to get plugged in to existing projects without having to cold-call an NPO!  
+
+### [Data for Good](https://datascienceottawa.wordpress.com/2017/04/14/how-to-d4g/)
+Primarily located in Ottawa and Montral, this group also provides insights on how to start your own chapter wherever you are. Check the #data4good hashtag on Twitter for additional chapter locations!  
+
+### [Data Kind](http://www.datakind.org/)
+With chapters in the UK, Singapore, India, and parts of the US, Data Kind has an application process for data scientists to be paired with non-profit projects that could benefit from your expertise.
+
+### [Data Science for Social Good](https://dssg.uchicago.edu/)
+Data Science for Social Good is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
+
+### [Delta Analytics](http://www.deltanalytics.org/)
+Delta Analytics works to bridge the skill gap faced by non-profits by providing free data consulting and data services as well as build technical capacity in communities around the world by providing free trainings to help democratize access to machine learning and data tools. You can apply to be involved in either of these opportunities.
+
+### [Harvard Strategic Data Project](https://sdp.cepr.harvard.edu/)
+The Harvard Strategic Data Project has several application-based programs that are focused on training data strategists to generate and communicate new evidence that helps educators and policy leaders make better decisions for students.
+
+### [Statisticians for Society](http://www.rss.org.uk/RSS/Get_involved/Statisticians_for_Society/RSS/Get_involved/Statisticians_for_Society.aspx)
+This is a UK group that aims to help statisticians offer their skills to charities and other socially useful initiatives that need their professional expertise. You must be a member of the Royal Society of Statistics to participate.
+
+### [Statistics Without Borders](http://community.amstat.org/statisticswithoutborders/aboutswb/aboutswb)
+Statistics Without Borders (SWB) is a volunteer Outreach Group of the American Statistical Association (ASA) that provides pro bono services in statistics and data science. 
+
+_Do you know of other organizations that connect data scientists with NPOs? [Reach out to me on Twitter](https://twitter.com/kierisi) with more information, and I'll update this list!_
+
+***
+
+## Reaching out to an NPO
+Perhaps none of the above groups appeal to you, or there isn't a chapter in your area and you lack the capacity to build such a chapter. You can still offer your services to local NPOs. Here are some general guidelines for doing so:  
+
+1. Find an NPO (or series of NPOs) that work on causes you care about. A general Google search using the formula: __[cause I care about] [city I live in] [nonprofit]__ can get you pretty far in terms of an initial list of NPOs to contact.  
+
+2. Look at the NPO's website: what kind of projects are they working on? Do these kinds of projects interest you? If so, consider reaching out.  
+
+3. Is the NPO already doing data work? If you don't see any "data scientists" on staff, that doesn't mean they don't have a whip smart analytics team - look for titles like "analyst", "evaluation", and "research and evaluation."  
+
+4. Check to see if the NPO has published any of their research in the form of white papers or impact reports. This is not uncommon with larger, more-established NPOs.
+
+5. If you'd like to reach out to the NPO, this is where YMMV - and significantly at that. You can reach out to existing evaluation/data staff or volunteer coordinators, fill out a web form, or anything in between. __Check the website to see what the NPO prefers.__ And above all else, be polite, considerate, and understand that the NPO ultimately may not be interested in the type of volunteer work you'd like to provide.
+
+***
+
+## Most importantly: do good human-ing
+
+It can be tempting to go in to a data science volunteer experience ready to show off all of your machine learning algorithm skills, but that may not be what the organization needs. Perhaps instead of predictive modeling, they would derive more benefit from a series of data trackers in Excel and monthly data audits.  
+
+Take the time to build relationships and understand what the staff at the NPO needs. Ensure that anything you build is scalable and sustainable - a series of Python scripts that only you know how to run has limited value compared to a solution that the bulk of staff members can utilize without your assistance.  
+
+It's also worth mentioning that as a volunteer, [you are not considered an employee](https://www.nonprofitrisk.org/resources/articles/employee-or-volunteer-whats-the-difference/), and wherever you reside, there are certain to be a whole host of laws governing what you can and cannot do.  
+
+Remember that when you're volunteering your time with a non-profit organization, you should be doing so with the intent to help make the world a better place moreso than to build up your data science CV. Look for NPOs whose mission statement aligns with your personal values, and when you commit to volunteering, be sure to follow through.
+
+And whether you've been doing non-profit data work for decades, or you just started volunteering this week, I'd love to hear your story and ask you about your experience, so please be in touch!

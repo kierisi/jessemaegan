@@ -1,0 +1,62 @@
+---
+title: When in doubt, optimize for joy
+author: Jesse M
+date: '2018-07-19'
+slug: when-in-doubt-optimize-for-joy
+categories: []
+tags:
+  - joy
+---
+
+## When in Doubt
+My summer started with a bang:
+
+* The end of a long-term relationship
+* A surprisingly difficult - _but completely treatable_ - medical diagnosis
+* The illness and eventual passing of a beloved family member
+
+Each of these items paced themselves perfectly and provided an ongoing (and most welcome!) sense of relief that beautifully masked my growing disinterest and discontent with my place in the `R` community. With each of these big ordeals happening in rapid succession, I didn't have time to feel guilty about the ever-present sense of apathy for projects that once were my reason for getting out of bed in the morning.
+
+On the surface it _felt_ like I had everything I needed to be successful. In the last year I've been invited to speak at conferences, interview for jobs, review books, write a book (!!!), and guest lecture. My Twitter account seemed to magically grow with little to no attention. My inbox began to regularly fill up with people looking for advice, or to connect, or to collaborate. My need for external validation had been utterly and completely met, and I felt nothing other than a growing sense of dissatisfaction.
+
+The direction the world was pushing me towards and the direction that I wanted to go in were firmly at odds.
+
+*** 
+
+## Optimize for Joy
+There was no precipitating moment where I decided that it was time for me to move in a different direction. Instead it was a flurry of small moments that collectively suggested that _perhaps this wasn't my jam anymore._ The joy in walking the dual paths of _data science education_ and _data science **in** education_ had up and left while I wasn't looking, leaving me bewildered and breathless.
+
+So I took the advice of a friend on Slack who, whenever someone posed an even remotely existential question, responded with: 
+
+> "When in doubt, optimize for joy." - @koaning
+
+It turns out that the most difficult part of optimizing for joy is being honest with yourself about what truly brings you joy, and not fooling yourself into the false equivalency of what you think _should_ bring you joy.
+
+And so I made list after list of the things I was involved in, and I began to ever more ruthlessly chop things from the list that did not bring me joy. I sent awkward emails backing out of commitments and made even more awkward phone calls explaining why I could no longer participate in projects. And after each round my list was shorter, but still contained items that I felt obligated to keep - even though they brought me no joy.
+
+***
+
+## Post-it dreams
+For the last year I've had the following post-it note on my fridge:
+
+![](https://i.imgur.com/o1V7owR.jpg)
+
+And here's what it's been replaced with: 
+
+![](https://i.imgur.com/umaNGft.jpg)
+
+Somewhere along the line I had internalized the message that we're supposed to begrudge our day jobs while we labor furiously at a side hustle that will eventually become the thing that is our career. I swallowed that message hook, line, and sinker, telling anyone who would listen that I was going to _make it_ in data science education, whatever that means - as if I didn't already know that this is all a journey and the destination is merely a temporary resting place.
+
+And that message is a bit difficult to believe when you don't mind your day job. Where it gets really tough is when you realize that you like your day job. And listening to that message becomes damn near impossible when you realize that you've fallen in love with your day job and wake up one day to suddenly recognize that you're doing exactly what you're meant to be doing at this point in your life.
+
+I'm in a place where my career and the people I work with brings me joy, and also gives me the gift of time to pursue my passions and interests outside of work. It's a precarious balance, but I'm going to ride this wave as long as I can.
+
+***
+
+## So for now...
+The [R4DS Online Learning Community](http://www.rfordatasci.com/) is doing great things, but it's moved so far out of alignment with what I envisioned that it was time for me to step down and hand things off to others. I'm looking forward to seeing how it evolves in the coming years. 
+
+[R-Ladies](https://rladies.org/) is a phenomenal organization - **phenomenal** - but I had conflated being _good_ at community organizing with _enjoying_ community organizing. I'm excited to see where new leadership takes the Dallas chapter, and looking forward to participating as a member rather than a leader.
+
+The `R` community is a wonderful, dynamic, and vibrant place, and I'm not going far. `R` is lovely a tool that I'm starting to use more regularly in my career, and I'm still excited about leveraging data science to improve academic outcomes for kids. But for now I'll be doing it quietly and in my own way. 
+

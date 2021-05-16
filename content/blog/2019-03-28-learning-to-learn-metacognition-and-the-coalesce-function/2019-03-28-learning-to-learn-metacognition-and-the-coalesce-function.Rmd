@@ -1,0 +1,156 @@
+---
+title: 'Learning to Learn: metacognition and the coalesce() function'
+author: 'Jesse '
+date: '2019-03-28'
+slug: learning-to-learn-metacognition-and-the-coalesce-function
+categories: []
+tags:
+  - learning
+  - learning to learn
+  - R
+  - teaching yourself
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+## The challenge
+One skill that all great educators possess is the ability to ask questions. 
+Asking the right questions at the right time of the learners in your classroom 
+can facilitate understanding, uncover misconceptions, and indicate whether or 
+not learners have mastered the material.  
+
+However, when you're learning on your own you have to simultaneously fill the 
+roles of both learner and educator, and not only know both how and when to ask 
+yourself questions, but also answer your questions, evaluate your answers, and redirect your learning path as you progress.  
+
+## Encountering coalesce
+Rather than rehash all the ways that one can develop and deliver questions (check out [Doug Lemov's "Teach Like a Champion 2.0"](https://teachlikeachampion.com/books/teach-like-champion-2-0) 
+if you're interested in more 
+information), I wanted to do a quick walkthrough of both my code as well as 
+thought process when I encountered the `coalesce()` function this evening.      
+
+I noticed use of the `coalesce()` function while I was reading through [the vignette for the `janitor` package](https://github.com/sfirke/janitor):  
+
+![](https://i.imgur.com/XO0JSgZ.png)
+
+**Thought:** hmm. I've definitely _seen_ `coalesce()` before, but I don't know 
+what it does.  
+
+**Action:** open RStudio and run the following code:
+
+```{r message = FALSE}
+# install the dplyr package if you don't have it
+# install.packages(dplyr)  
+
+# load the dplyr package into your workspace
+library(dplyr)
+
+# pull up the Help page for the coalesce function
+?coalesce
+```
+
+Once I've got the `coalesce()` Help page open I've got some good information at 
+my disposal. The title and description give me some clue as to what's happening 
+in this function.  
+
+**Question to self:** based on the information in the title and description, 
+could you explain to someone what the `coalesce()` function does?  
+
+_lolnope!_  
+
+## Inside my brain case: exploring `coalesce()`  
+
+OK, let's look at what the first example in the Help documentation does:  
+```{r message = FALSE}
+x <- sample(c(1:5, NA, NA, NA))
+coalesce(x, 0L)
+
+```
+
+I think that makes sense. I know that `sample()` is going to give me eight values with three `NA` values and the numbers 1 - 5.  
+
+_**But what happens if I use an integer besides 0?**_  
+I'm wondering if the 0L is replacing the `NA` values with 0. If that's the case, then the `NA` values should be replaced with any integer that I feed into the `coalesce()` function. Let's use an intentionally larger number so that it's easy to visually discern:  
+
+```{r message = FALSE}
+coalesce(x, 928L)
+```
+
+That works!  
+
+**What happens if I use different values to replace the `NA` values?**  
+I'm assuming that I can only use integers since I'm working with [vectors instead of lists](http://adv-r.had.co.nz/Data-structures.html), but let's check that assumption with a character string:   
+
+```{r error = TRUE}
+coalesce(x, "rabbit")
+```
+
+What about a double?  
+```{r error = TRUE}
+coalesce(x, 9.8)
+```
+
+OK, but do I _really_ have to specify an integer?  
+
+```{r error = TRUE}
+coalesce(x, 5)
+```
+
+(Yes.)  
+
+Let's confirm: 
+```{r error = TRUE}
+coalesce(x, 5L)
+```
+
+Great! I feel comfortable with the first worked example, but want to check out 
+the second, because it looks like something I could use in my own work:  
+
+```{r}
+y <- c(1, 2, NA, NA, 5)
+z <- c(NA, NA, 3, 4, 5)
+coalesce(y, z)
+```
+
+**Is the `NA` in one vector being replaced by a numerical value in the other vector?**  
+
+I'm 98% confident that this is the case, but let's double check:  
+```{r}
+a <- c(1, NA, 5)
+b <- c(22, 24, 26)
+coalesce(a, b)
+```
+
+**But what happens if I have two `NA` values, both at the same position in each vector?**    
+
+What I _think_ will happen is that I'll get an `NA` value, because there isn't anything other than an `NA` available to replace the existing `NA`.
+
+```{r}
+c <- c(1, NA, 5)
+d <- c(2, NA, 4)
+coalesce(c, d)
+```
+
+**What happens if I have `NA` values in both vectors, but in different positions?**  
+
+I assume that I'll be left with a vector comprised entirely of integers, and I'm _guessing_ that the `NA` value in `e` will be replaced with the **24** from `f`:    
+```{r}
+e <- c(1, NA, 5)
+f <- c(NA, 24, 26)
+coalesce(e, f)
+```
+
+Based on these results it seems that the order in which I supply the vectors to the `coalesce()` function matters. This isn't entirely surprising - this is how R behaves - but I want to confirm this finding.    
+
+**What if I reverse the order of vectors provided to the `coalesce()` function?**  
+
+My assumption is that I'll see the _first_ `NA` value from `f` replaced with **1** from `e`:  
+
+```{r}
+coalesce(f, e)
+```
+
+Sweet. At this point I feel like I have a handle on what `coalesce()` does and how it generally behaves.  
+
