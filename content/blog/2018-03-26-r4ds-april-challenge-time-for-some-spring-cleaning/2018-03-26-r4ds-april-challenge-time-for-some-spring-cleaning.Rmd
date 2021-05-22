@@ -1,6 +1,6 @@
 ---
 title: 'R4DS April Challenge: time for some spring cleaning!'
-author: Jesse M
+author: Jesse Mostipak
 date: '2018-03-26'
 slug: r4ds-april-challenge-time-for-some-spring-cleaning
 categories: []

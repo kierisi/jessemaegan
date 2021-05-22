@@ -1,6 +1,6 @@
 ---
 title: 'Learning to Learn: Process Over Product'
-author: 'Jesse '
+author: Jesse Mostipak
 date: '2018-08-12'
 slug: learning-to-learn-process-over-product
 categories: []

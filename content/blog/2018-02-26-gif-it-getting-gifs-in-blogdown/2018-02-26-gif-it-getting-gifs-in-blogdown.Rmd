@@ -1,6 +1,6 @@
 ---
 title: GIF it, GIF it real good
-author: Jesse M
+author: Jesse Mostipak
 date: '2018-02-26'
 tags:
   - blogdown

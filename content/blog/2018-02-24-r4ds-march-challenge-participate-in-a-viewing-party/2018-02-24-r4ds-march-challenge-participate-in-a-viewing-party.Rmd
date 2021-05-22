@@ -1,6 +1,6 @@
 ---
 title: 'R4DS March Challenge: Participate in a Viewing Party!'
-author: Jesse M
+author: Jesse Mostipak
 date: '2018-02-24'
 tags:
   - community

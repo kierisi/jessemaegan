@@ -1,6 +1,6 @@
 ---
 title: 'TIL: Last observation carried forward (LOCF) using fill()'
-author: jesse
+author: Jesse Mostipak
 date: '2018-10-03'
 slug: til-locf
 categories: []

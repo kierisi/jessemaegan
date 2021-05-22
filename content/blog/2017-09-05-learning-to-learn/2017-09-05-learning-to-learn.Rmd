@@ -1,6 +1,6 @@
 ---
 title: Learning to Learn
-author: Jesse M
+author: Jesse Mostipak
 date: '2017-09-05'
 slug: learning-to-learn
 categories: []

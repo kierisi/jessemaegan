@@ -1,6 +1,6 @@
 ---
 title: 'R4DS: the next iteration'
-author: Jesse M
+author: Jesse Mostipak
 date: '2017-12-22'
 slug: r4ds-the-next-iteration
 categories: []

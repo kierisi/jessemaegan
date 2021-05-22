@@ -1,6 +1,6 @@
 ---
 title: 'R4DS February Challenge: #winning'
-author: Jesse M
+author: Jesse Mostipak
 date: '2018-01-28'
 slug: r4ds-february-challenge-winning
 categories: []

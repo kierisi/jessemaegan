@@ -1,6 +1,6 @@
 ---
 title: 'R4DS May Challenge: sign up for office hours!'
-author: Jesse M
+author: Jesse Mostipak
 date: '2018-05-05'
 slug: r4ds-may-challenge-sign-up-for-office-hours
 categories: []

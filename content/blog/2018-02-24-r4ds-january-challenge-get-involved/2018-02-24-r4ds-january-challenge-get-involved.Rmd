@@ -1,6 +1,6 @@
 ---
 title: 'R4DS January Challenge: get involved!'
-author: Jesse M
+author: Jesse Mostipak
 date: '2017-12-29'
 tags:
   - community

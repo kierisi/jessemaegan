@@ -1,6 +1,6 @@
 ---
 title: There's No Crying in Data Science
-author: Jesse
+author: Jesse Mostipak
 date: '2020-04-25'
 slug: there-s-no-crying-in-data-science
 categories: []
