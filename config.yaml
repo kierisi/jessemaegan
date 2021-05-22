@@ -1,8 +1,8 @@
-baseURL: "/"
+baseURL: "https://jessemaegan.com"
 languageCode: en
 theme: hugo-apero
 title: Hugo Apéro
-author: Alison Hill
+author: Jesse Mostipak
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -92,7 +92,7 @@ menu:
     #   weight: 3
   header:
     - name: About
-      title: About Apéro
+      title: About Jesse
       url: /about/
       weight: 1
     - name: Blog
