@@ -33,15 +33,15 @@ Questions, commentary, requests for ggplot extension explorations, and good vibe
 
 ### Recent streams and videos
 
-* [Creating a boxplot using Mario Kart data]()
-
-### What is #TidyTuesday?
-
-[TidyTuesday](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) is a weekly social data project, created by [Tom Mock](https://twitter.com/thomas_mock). Every Monday a new dataset is released on the #TidyTuesday GitHub repo. The data will be tamed, but does not always adhere to “tidy” data principles. This dataset will come from an article with an interesting plot. The goal is to have you take a look at the raw data and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that [`tidyverse`](https://www.tidyverse.org/) tools will work well!
+* [Creating a boxplot using Mario Kart data](https://www.jessemaegan.com/blog/2021-05-24-3-2-1-mario-kart-tidytuesday-unfiltered/)
 
 ### When to catch the stream
 
 I'll be [livestreaming on Twitch](https://www.twitch.tv/kierisi) (almost) every Monday at 8:00PM Central, beginning May 24th, 2021. By the end of stream we'll have talked about what goes into creating beginner-level content, generated a couple of plots, and posted them to Twitter using the #TidyTuesday hashtag and [high-quality alt-text](https://github.com/spcanelon/csvConf2021).  
 
 On Tuesday you'll be able to catch video highlights and tutorials on [YouTube](https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA), as well as read a short blog post (with access to all of the code!) on this site.
+
+### What is #TidyTuesday?
+
+[TidyTuesday](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) is a weekly social data project, created by [Tom Mock](https://twitter.com/thomas_mock). Every Monday a new dataset is released on the #TidyTuesday GitHub repo. The data will be tamed, but does not always adhere to “tidy” data principles. This dataset will come from an article with an interesting plot. The goal is to have you take a look at the raw data and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that [`tidyverse`](https://www.tidyverse.org/) tools will work well!
 
