@@ -18,12 +18,22 @@ links:
   url: https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA
 subtitle: Creating beginner-friendly TidyTuesday content together
 tags:
-title: TidyTuesday Extravaganza
+title: TidyTuesday Unfiltered
 ---
 
 ## The #TidyTuesday Extravaganza is a warm, welcoming place for anyone interested in getting started creating data visualizations in R and//or creating beginner-friendly content using #TidyTuesday datasets
 
 ---
+
+### Why Unfiltered?
+I'm all about learning out loud, and believe that mistakes are key to progress. 
+Every Monday I'll be working with a dataset that I've never seen, sharing how I explore and approach it, and ultimately create a couple of graphs that anyone can use to get started on their own #TidyTuesday journey! 
+Everyone is welcome to the stream, and I absolutely _love_ chatting with you all! 
+Questions, commentary, requests for ggplot extension explorations, and good vibes all invited.  
+
+### Recent streams and videos
+
+* [Creating a boxplot using Mario Kart data]()
 
 ### What is #TidyTuesday?
 
@@ -35,5 +45,3 @@ I'll be [livestreaming on Twitch](https://www.twitch.tv/kierisi) (almost) every 
 
 On Tuesday you'll be able to catch video highlights and tutorials on [YouTube](https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA), as well as read a short blog post (with access to all of the code!) on this site.
 
-### Recent streams and videos
---Stay tuned!--
