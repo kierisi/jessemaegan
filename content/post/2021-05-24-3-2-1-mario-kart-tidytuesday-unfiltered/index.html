@@ -1,0 +1,61 @@
+---
+title: '3-2-1 Mario Kart! #TidyTuesday Unfiltered'
+author: Jesse Mostipak
+date: '2021-05-24'
+slug: [A reflection and rundown of our first ever TidyTuesday Unfiltered stream!]
+categories:
+  - Content Creation
+  - R
+  - Streaming
+tags: [content creation, R, TidyTuesday, Mario Kart]
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>At my first data science job I worked with a guy who would throw his hands up and shout “We did it, Reddit!” any time something went really well.
+And last night was a <em>huge</em> “We did it, Reddit!” moment for me, and I hope for many of you as well.</p>
+<p>My goal with streaming #TidyTuesday Unfiltered is to show what it’s like to work with an unfamiliar dataset, make mistakes in front of others, learn on the fly, and build a sense of community while also creating beginner-friendly content. You can check out the inaugural stream <a href="https://www.twitch.tv/videos/1034279289">here</a>.</p>
+<p>Looking to skip past the 90 minutes of cats and conversation and dive right into creating our boxplot?
+I’ve got you covered.
+Here’s a 10-minute video walking through the code:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g8vTeHERNp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p>And the code!</p>
+<pre><code># setup
+library(tidyverse)
+library(skimr)
+
+# data import
+tuesdata &lt;- tidytuesdayR::tt_load(&#39;2021-05-25&#39;)
+records &lt;- tuesdata$records
+
+# initial exploration of dataset
+glimpse(records)
+
+records %&gt;% 
+  skim()
+
+records_tt &lt;- records %&gt;% 
+  mutate(track = factor(track))
+glimpse(records_tt)
+
+# let&#39;s create a boxplor
+records_tt %&gt;% 
+  ggplot(aes(x = track, y = record_duration)) +
+  geom_boxplot()
+
+# add alpha 0.6 to geom_boxplot, swap x and y variables
+records_tt %&gt;% 
+  ggplot(aes(x = record_duration, y = track)) +
+  geom_boxplot(alpha = 0.6)
+
+# add a fill, where fill = type in aes() so we can see single vs triple laps
+records_tt %&gt;% 
+  ggplot(aes(x = record_duration, y = track, fill = type)) +
+  geom_boxplot(alpha = 0.6)
+
+# print a .png version of the graph
+ggsave(&quot;25-05-2021_mario_kart.png&quot;, last_plot(), device = &quot;png&quot;)
+</code></pre>
+<p>The <a href="https://github.com/rfordatascience/tidytuesday">#TidyTuesday project</a> is a weekly data visualization challenge that asks community members to take a dataset, tidy it as needed, and create code and visualizations to share on <a href="https://twitter.com/search?q=%23tidyTuesday&amp;src=typed_query">Twitter</a>. The visualizations are <em>phenomenal</em> and well worth perusing each week.</p>
