@@ -1,0 +1,61 @@
+---
+title: GIF it, GIF it real good
+author: Jesse Mostipak
+date: '2018-02-26'
+tags:
+  - blogdown
+  - GIF
+  - learning
+  - meme
+  - tutorial
+  - imgur
+  - GIPHY
+slug: gif-it-gif-it-real-good
+---
+We're going to walk through the basics of posting GIFs on your [blogdown](https://bookdown.org/yihui/blogdown/) website using [imgur](https://imgur.com/) and [GIPHY](https://giphy.com/). 
+
+## Introduction
+Blogdown is an amazing tool for - _wait for it_ - blogging. I recently made the jump to blogdown, and after working out all of my self-inflicted initial "OMG what happened _now_?!" issues, blogdown has become part of my daily workflow. I'm still playing with formatting issues (evidence below) but on the whole things are coming together nicely.
+
+![__me & blogdown__ _(Why is this text so far away from the image? How do I put it closer, to serve as more of a caption? How do I move text to the top? If you know, Twitter me!)_](https://i.imgur.com/nx32vir.jpg)
+
+***
+
+## You said there would be GIFs
+If you know me, you know that I love to communicate using GIFs. So naturally one of the first things I looked into was how to use GIFs with blogdown, which resulted in finding [this post](https://blogdown-demo.rbind.io/2018/01/31/gif-animations/).  
+
+~~There's nothing wrong with this method, but it's a bit too technical for my needs, because really when I say GIF I'm referring to internet memes and not some amazingly useful and helpful [ggplot2](http://ggplot2.tidyverse.org/)-generated graph.~~  
+
+_Edit: after writing this post, the blogdown reference post linked above was updated to include the methods outlined in this post._
+
+### What you need
+* an [imgur](https://imgur.com/) account (see the 'Updates' section below to bypass imgur)
+* a GIF to share on your website - I use [GIPHY](https://giphy.com/) for 99% of my GIFfing needs
+* blogdown up and running on your computer
+
+***
+
+### What to do
+1. Find your GIF - I'm going to use the search terms "knope dance" on GIPHY
+2. Within GIPHY, click on your GIF and then click on download (I usually choose Source)
+3. Go to imgur. Hover over your account name, and then select 'Images' from the dropdown menu, like so:
+![](https://i.imgur.com/TDYM0hl.png)
+4. Upload your GIF to imgur by whatever means floats your boat (drag and drop or using the 'Add images' button)
+5. Click on the thumbnail of your GIF to get the following screen:
+![](https://i.imgur.com/43iUO8W.png)  
+6. Copy the link in the 'Original GIF Link' box - this is the URL that ends in __.gif__, _not .gifv_
+7. In blogdown we link to an image using the following:  
+  -> template: `![]()`  
+  -> template with guide words: `![placeholder text](your URL goes here)`
+8. In the 'placeholder text' space, type in whatever text you'd like to appear under your GIF, and paste your GIF URL in between the parentheses
+9. Profit!  
+
+![the above GIF was created using: `![](https://i.imgur.com/fAevDKc.gif)`](https://i.imgur.com/fAevDKc.gif)  
+
+*** 
+
+## Updates!
+_Many thanks to [Alison Hill](https://twitter.com/apreshill) for sharing the following resources:_  
+
+* [You can link _directly_ to GIPHY (or other sites)](https://alison.rbind.io/post/r-ladies-slides/), which removes the need for imgur uploads
+* And for information on figure captions, [look no further](https://blogdown-demo.rbind.io/2017/10/06/adding-figures-and-other-images-to-posts/)!

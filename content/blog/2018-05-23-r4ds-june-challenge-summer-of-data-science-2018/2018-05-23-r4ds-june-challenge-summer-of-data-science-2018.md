@@ -1,0 +1,87 @@
+---
+title: 'R4DS June Challenge: Summer of Data Science 2018'
+author: Jesse Mostipak
+date: '2018-05-23'
+slug: r4ds-june-challenge-summer-of-data-science-2018
+categories: []
+tags:
+  - challenge
+  - data science
+  - education
+  - learning
+  - R
+  - SoDS
+---
+
+# We’re going on a learning adventure!
+
+This summer we’d like to challenge you to participate in the “Summer of Data Science” Twitter initiative hosted by none other than [Data Science Renee](https://twitter.com/BecomingDataSci)! While the Summer of Data Science (SoDS) supports all languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our [*R4DS Online Learning Community*](https://www.jessemaegan.com/post/r4ds-the-next-iteration/) for our community members to ask questions, provide support, and in general discuss what we’re learning within our chosen text!
+
+{{< tweet 995720386774994945 >}}
+
+------------------------------------------------------------------------
+
+# How to participate
+
+-   Choose a book from the list below
+-   Work through the book at your own pace
+-   Use our Slack community to ask questions, provide guidance to others, and support one another in our learning journeys
+-   Share both your learning plan and your learning updates on Twitter using the \#SoDS18 hashtag! More information on this to follow *soon!*
+
+![](https://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif)
+
+------------------------------------------------------------------------
+
+# Books we’ll be supporting for \#SoDS2018
+
+-   [Advanced R](http://adv-r.had.co.nz/)
+-   [Modern Dive](http://moderndive.com/)
+-   [R for Data Science](http://r4ds.had.co.nz/) *(This book is the inspiration for our Slack group. There are channels for each section of this text, rather than a single channel for the entire text.)*
+-   [R Packages](http://r-pkgs.had.co.nz/)
+-   [Tidy Text Mining with R](https://www.tidytextmining.com/)
+
+------------------------------------------------------------------------
+
+# FAQ
+
+**Could you please explain what SoDS18 *is*?**
+
+The Summer of Data Science is an initiative started by [Data Science Renee](https://twitter.com/BecomingDataSci) that focuses on making a [commitment to learn something this summer to enhance your data science skills, and to share what you learned.](https://www.becomingadatascientist.com/2017/05/29/summer-of-data-science-2017/)
+
+**How do I sign up for the online learning community?**
+
+You can read more about the overall community as well as sign up for our Slack group [here](https://www.jessemaegan.com/post/r4ds-the-next-iteration/).
+
+Please note that you ***do not*** have to be a part of our online learning community in order to participate in \#SoDS18! \#SoDS18 exists as a creation of [Data Science Renee](https://twitter.com/BecomingDataSc), while our online learning community can choose to participate within our Slack channel *as well as* on the Twitter \#SoDS18 campaign.
+
+**How do I choose a book?**
+
+This will vary by individual preference, but if you’re looking for a “just right” text, skim the first few chapters of a text. If everything looks pretty familiar, great! Now go to the last few chapters and skim. If everything looks like something you’ve never seen or heard before, and *definitely* has information that you couldn’t explain to someone else, then this book is probably “just right” for you.
+
+**I joined the group but can’t find the channel for my book**
+
+You will have to add yourself to the channel. You can do this by following the instructions [here](https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels).
+
+**I want to read a book not listed - will there be a channel for me in the Slack group?**
+
+No, however you are still encouraged to work through a book or course and share what you’ve learned on Twitter by using the \#SoDS18 hashtag.
+
+**Why did you only list books? There are so many other ways to learn R and data science!**
+
+There are hundreds, if not thousands, of resources that you can use to learn R and data science. The books were chosen in order to provide the greatest accessibility possible by removing any financial barriers, while staying firmly within the `tidyverse` approach to programming in R.
+
+**I’m only joining this group for the SoDS event. Do I have to follow your [Code of Conduct?](https://github.com/rfordatascience/policies/blob/master/citizen_code_of_conduct.md)**
+
+Yes, [our Code of Conduct](https://github.com/rfordatascience/policies/blob/master/citizen_code_of_conduct.md) is non-negotiable.
+
+**I want to learn Python for Data Science - will there be a channel for me in the Slack group?**
+
+No, but consider reaching out to the Python for Data Science group!
+
+{{< tweet 994238398830432256 >}}
+
+------------------------------------------------------------------------
+
+# Now let’s get reading!
+
+![](https://media.giphy.com/media/ALpD1LgE7u3sI/giphy.gif)
