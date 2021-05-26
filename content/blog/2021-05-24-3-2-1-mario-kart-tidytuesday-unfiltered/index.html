@@ -22,40 +22,50 @@ Here’s a 10-minute video walking through the code:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8vTeHERNp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <p>And the code!</p>
-<pre><code># setup
-library(tidyverse)
-library(skimr)
-
-# data import
-tuesdata &lt;- tidytuesdayR::tt_load(&#39;2021-05-25&#39;)
-records &lt;- tuesdata$records
-
-# initial exploration of dataset
-glimpse(records)
+<div id="set-up-our-environment" class="section level3">
+<h3>set up our environment</h3>
+<pre class="r"><code>library(tidyverse)
+library(skimr)</code></pre>
+</div>
+<div id="data-import" class="section level3">
+<h3>data import</h3>
+<pre class="r"><code>tuesdata &lt;- tidytuesdayR::tt_load(&#39;2021-05-25&#39;)
+records &lt;- tuesdata$records</code></pre>
+</div>
+<div id="initial-exploration-of-dataset" class="section level3">
+<h3>initial exploration of dataset</h3>
+<pre class="r"><code>glimpse(records)
 
 records %&gt;% 
   skim()
 
 records_tt &lt;- records %&gt;% 
   mutate(track = factor(track))
-glimpse(records_tt)
-
-# let&#39;s create a boxplor
-records_tt %&gt;% 
+glimpse(records_tt)</code></pre>
+</div>
+<div id="lets-create-our-initial-boxplot" class="section level3">
+<h3>let’s create our initial boxplot</h3>
+<pre class="r"><code>records_tt %&gt;% 
   ggplot(aes(x = track, y = record_duration)) +
-  geom_boxplot()
-
-# add alpha 0.6 to geom_boxplot, swap x and y variables
-records_tt %&gt;% 
+  geom_boxplot()</code></pre>
+</div>
+<div id="add-alpha-0.6-to-geom_boxplot-swap-x-and-y-variables" class="section level3">
+<h3>add alpha 0.6 to geom_boxplot, swap x and y variables</h3>
+<pre class="r"><code>records_tt %&gt;% 
   ggplot(aes(x = record_duration, y = track)) +
-  geom_boxplot(alpha = 0.6)
-
-# add a fill, where fill = type in aes() so we can see single vs triple laps
-records_tt %&gt;% 
+  geom_boxplot(alpha = 0.6)</code></pre>
+</div>
+<div id="add-a-fill-where-fill-type-in-aes-so-we-can-see-single-vs-triple-laps" class="section level3">
+<h3>add a fill, where fill = type in aes() so we can see single vs triple laps</h3>
+<pre class="r"><code>records_tt %&gt;% 
   ggplot(aes(x = record_duration, y = track, fill = type)) +
-  geom_boxplot(alpha = 0.6)
-
-# print a .png version of the graph
-ggsave(&quot;25-05-2021_mario_kart.png&quot;, last_plot(), device = &quot;png&quot;)
-</code></pre>
+  geom_boxplot(alpha = 0.6)</code></pre>
+</div>
+<div id="print-a-.png-version-of-the-graph" class="section level3">
+<h3>print a .png version of the graph</h3>
+<pre class="r"><code>ggsave(&quot;25-05-2021_mario_kart.png&quot;, last_plot(), device = &quot;png&quot;)</code></pre>
+</div>
+<div id="what-is-tidytuesday" class="section level3">
+<h3>What is #TidyTuesday?</h3>
 <p>The <a href="https://github.com/rfordatascience/tidytuesday">#TidyTuesday project</a> is a weekly data visualization challenge that asks community members to take a dataset, tidy it as needed, and create code and visualizations to share on <a href="https://twitter.com/search?q=%23tidyTuesday&amp;src=typed_query">Twitter</a>. The visualizations are <em>phenomenal</em> and well worth perusing each week.</p>
+</div>

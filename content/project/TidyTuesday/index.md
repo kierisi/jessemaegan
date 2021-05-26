@@ -1,47 +1,47 @@
 ---
 author: Jesse Mostipak
 categories:
-- Book
-- Data Science in Education
-date: "2020-10-21"
+- Code
+- Content Creation
+date: "2021-05-22"
 draft: false
 excerpt: 
 layout: single
 links:
-- icon: door-open
+- icon: twitch
   icon_pack: fas
-  name: book website
-  url: https://datascienceineducation.com/
-- icon: github
+  name: live stream
+  url: https://www.twitch.tv/kierisi
+- icon: youtube
   icon_pack: fab
-  name: code
-  url: https://github.com/data-edu/data-science-in-education
-subtitle: Get started using R with education data with our open-source book.
+  name: video tutorials
+  url: https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA
+subtitle: Creating beginner-friendly TidyTuesday content together
 tags:
-title: Data Science in Education Using R
+title: TidyTuesday Unfiltered
 ---
 
-## Data Science in Education Using R is an open source guide for anyone interested in learning R within the context of education.
+## The #TidyTuesday Extravaganza is a warm, welcoming place for anyone interested in getting started creating data visualizations in R and//or creating beginner-friendly content using #TidyTuesday datasets
 
 ---
 
-### Data Science in Education -- You're Invited!
+### Why Unfiltered?
+I'm all about learning out loud, and believe that mistakes are key to progress. 
+Every Monday I'll be working with a dataset that I've never seen, sharing how I explore and approach it, and ultimately create a couple of graphs that anyone can use to get started on their own #TidyTuesday journey! 
+Everyone is welcome to the stream, and I absolutely _love_ chatting with you all! 
+Questions, commentary, requests for ggplot extension explorations, and good vibes all invited.  
 
-Dear Data Scientists, Educators, and Data Scientists who are Educators:
+### Recent streams and videos
 
-This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.
+* [Creating a boxplot using Mario Kart data](https://www.jessemaegan.com/blog/2021-05-24-3-2-1-mario-kart-tidytuesday-unfiltered/)
 
-Whether you’re a data scientist using your skills in an education job or an educator who wants to learn data science skills, we invite you to read this book and put these techniques to work in the real world. We think that your work in the education community will help decide how education and data science come together going forward.
+### When to catch the stream
 
-### Co-authors
+I'll be [livestreaming on Twitch](https://www.twitch.tv/kierisi) (almost) every Monday at 8:00PM Central, beginning May 24th, 2021. By the end of stream we'll have talked about what goes into creating beginner-level content, generated a couple of plots, and posted them to Twitter using the #TidyTuesday hashtag and [high-quality alt-text](https://github.com/spcanelon/csvConf2021).  
 
-* [Emily Freer](https://twitter.com/efreer20)
-* [Isabella Velásquez](https://twitter.com/ivelasq3)
-* [Jesse Mostipak](https://twitter.com/kierisi)
-* [Joshua Rosenberg](https://twitter.com/jrosenberg6432)
-* [Ryan Estrellado](https://twitter.com/ry_estrellado)
+On Tuesday you'll be able to catch video highlights and tutorials on [YouTube](https://www.youtube.com/channel/UCE2WK5bvNtDblu4NO9PGtJA), as well as read a short blog post (with access to all of the code!) on this site.
 
-### Citation
-If you would like to cite this book, please use the citation below:
->Estrellado, R. A., Freer, E. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). _Data science in education using R._ London, England: Routledge. _Nb._ All authors contributed equally.
+### What is #TidyTuesday?
+
+[TidyTuesday](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) is a weekly social data project, created by [Tom Mock](https://twitter.com/thomas_mock). Every Monday a new dataset is released on the #TidyTuesday GitHub repo. The data will be tamed, but does not always adhere to “tidy” data principles. This dataset will come from an article with an interesting plot. The goal is to have you take a look at the raw data and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that [`tidyverse`](https://www.tidyverse.org/) tools will work well!
 

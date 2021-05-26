@@ -22,16 +22,21 @@ Here's a 10-minute video walking through the code:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8vTeHERNp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And the code!
-```
-# setup
+
+### set up our environment
+```{r eval=FALSE}
 library(tidyverse)
 library(skimr)
+```
 
-# data import
+### data import
+```{r eval=FALSE}
 tuesdata <- tidytuesdayR::tt_load('2021-05-25')
 records <- tuesdata$records
+```
 
-# initial exploration of dataset
+### initial exploration of dataset
+```{r eval=FALSE}
 glimpse(records)
 
 records %>% 
@@ -40,25 +45,33 @@ records %>%
 records_tt <- records %>% 
   mutate(track = factor(track))
 glimpse(records_tt)
+```
 
-# let's create a boxplor
+### let's create our initial boxplot
+```{r eval=FALSE}
 records_tt %>% 
   ggplot(aes(x = track, y = record_duration)) +
   geom_boxplot()
+```
 
-# add alpha 0.6 to geom_boxplot, swap x and y variables
+### add alpha 0.6 to geom_boxplot, swap x and y variables
+```{r eval=FALSE}
 records_tt %>% 
   ggplot(aes(x = record_duration, y = track)) +
   geom_boxplot(alpha = 0.6)
+```
 
-# add a fill, where fill = type in aes() so we can see single vs triple laps
+### add a fill, where fill = type in aes() so we can see single vs triple laps
+```{r eval=FALSE}
 records_tt %>% 
   ggplot(aes(x = record_duration, y = track, fill = type)) +
   geom_boxplot(alpha = 0.6)
-
-# print a .png version of the graph
-ggsave("25-05-2021_mario_kart.png", last_plot(), device = "png")
-
 ```
 
+### print a .png version of the graph
+```{r eval=FALSE}
+ggsave("25-05-2021_mario_kart.png", last_plot(), device = "png")
+```
+
+### What is #TidyTuesday?
 The [#TidyTuesday project](https://github.com/rfordatascience/tidytuesday) is a weekly data visualization challenge that asks community members to take a dataset, tidy it as needed, and create code and visualizations to share on [Twitter](https://twitter.com/search?q=%23tidyTuesday&src=typed_query). The visualizations are _phenomenal_ and well worth perusing each week.  
