@@ -24,19 +24,22 @@ Here's a 10-minute video walking through the code:
 And the code!
 
 ### set up our environment
-```{r eval=FALSE}
+
+```r
 library(tidyverse)
 library(skimr)
 ```
 
 ### data import
-```{r eval=FALSE}
+
+```r
 tuesdata <- tidytuesdayR::tt_load('2021-05-25')
 records <- tuesdata$records
 ```
 
 ### initial exploration of dataset
-```{r eval=FALSE}
+
+```r
 glimpse(records)
 
 records %>% 
@@ -48,28 +51,32 @@ glimpse(records_tt)
 ```
 
 ### let's create our initial boxplot
-```{r eval=FALSE}
+
+```r
 records_tt %>% 
   ggplot(aes(x = track, y = record_duration)) +
   geom_boxplot()
 ```
 
 ### add alpha 0.6 to geom_boxplot, swap x and y variables
-```{r eval=FALSE}
+
+```r
 records_tt %>% 
   ggplot(aes(x = record_duration, y = track)) +
   geom_boxplot(alpha = 0.6)
 ```
 
 ### add a fill, where fill = type in aes() so we can see single vs triple laps
-```{r eval=FALSE}
+
+```r
 records_tt %>% 
   ggplot(aes(x = record_duration, y = track, fill = type)) +
   geom_boxplot(alpha = 0.6)
 ```
 
 ### print a .png version of the graph
-```{r eval=FALSE}
+
+```r
 ggsave("25-05-2021_mario_kart.png", last_plot(), device = "png")
 ```
 

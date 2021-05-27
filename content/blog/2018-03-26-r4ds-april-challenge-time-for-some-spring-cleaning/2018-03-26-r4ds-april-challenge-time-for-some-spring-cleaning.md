@@ -1,0 +1,49 @@
+---
+title: 'R4DS April Challenge: time for some spring cleaning!'
+author: Jesse Mostipak
+date: '2018-03-26'
+slug: r4ds-april-challenge-time-for-some-spring-cleaning
+categories: []
+tags:
+  - challenge
+  - data science
+  - online learning
+  - R
+  - R4DS
+---
+
+## Introduction
+April is such a fantastic time of the year - the weather starts to warm up, trees and flowers start blooming, and many of us start in on some [spring cleaning](https://en.wikipedia.org/wiki/Spring_cleaning). So it's only natural that we'd focus on the same thing in our [R4DS Online Learning Community](https://www.jessemaegan.com/post/r4ds-the-next-iteration/)!  
+
+![](https://i.imgur.com/zcUzDrl.gif)  
+
+***  
+## Finishing up March's Viewing Parties  
+Thank you to everyone who participated in our viewing party in early March, where member [Chris B.](https://twitter.com/kcat_km) shared with us how to use [RMarkdown and Shiny with students](https://www.youtube.com/watch?v=O04l-LpmoE8)!  
+
+While there's been a bit of a lull, community member [Jon H.](https://twitter.com/JonTheGeek) will be closing out the month of March with a talk about package development on March 31st. You're going to want to make sure you catch this one!  
+
+Due to some scheduling conflicts, some of our talks have been moved to April - we're excited to announce the following tentative schedule, and can't wait to see **you** at the viewing parties!  
+
+* [Andrea](https://twitter.com/unsorsodicorda): Saturday, April 7th
+* [Renata](https://twitter.com/renatagerecke): second week of April
+* [Raul](https://twitter.com/raviolli77), [Thomas](https://twitter.com/thomas_mock) (two separate talks!): third week of April  
+* [Jesse](https://twitter.com/kierisi): fourth week of April
+
+![](https://media.giphy.com/media/94iS62lx8CRQA/giphy.gif)
+
+*** 
+## April's "Tidy" challenges!
+Our April challenges are unique and extra awesome because they've been developed _entirely_ by R4DS community members - which is truly about as awesome as it can get!  
+
+I'm going to be a bit cryptic and let you know that this first challenge is going to give you the opportunity to make `dplyr` your new BFF as you tidy your heart out - but that's all I'm going to divulge for now! 
+
+Our second project is [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md), where every Monday we'll post a tame (but not necessarily tidy!) dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. 
+
+The goal of [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) is to apply the skills you're picking up from the [**R for Data Science**](http://r4ds.had.co.nz/) text to tidy and plot data, and then explore other’s work and connect with the greater `#rstats` community on Twitter by using the `#TidyTuesday` hashtag!  
+
+_If [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) sounds familiar, that's because it's inspired by the awesome [#MondayMakeover](http://www.makeovermonday.co.uk/) series from Tableau._
+
+Both of these projects are the result of collaborations between Radovan, Burcu, Raul, Rosa, Jake, Thomas, & Ariel, and we're thrilled to be sharing them with our community! 
+
+![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)  

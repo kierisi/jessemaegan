@@ -35,19 +35,20 @@ And what I actually _like_ about `pandas` is that it's written differently enoug
 
 For example, here's the code I wrote in `pandas`:
 
-```
+```python
 top_oceania_wines = reviews.loc[reviews.country.isin(['Australia', 'New Zealand']) & (reviews.points >= 95)]
 ```
 
 And if I had written it using `dplyr` I'd do something like:
 
-```
+```r
 top_oceania_wines <- reviews %>% 
   filter(country %in% c("Australia", "New Zealand"),
          points >= 95)
 ```
 
 ## Mental models
+
 I believe that programming is a literacy, and as such, a lot of how we teach literacy can be used to teach programming.
 This is part of what makes the `tidyverse` so powerful as an entry to programming in data science - its syntax readily lends itself to literacy parallels that we're already familiar with.
 `pandas` isn't written in the same way, which means that what needed to happen for me to start understanding `pandas` was to start building up a mental model of how to "read" the code. 
