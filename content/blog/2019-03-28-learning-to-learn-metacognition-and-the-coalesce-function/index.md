@@ -71,7 +71,7 @@ coalesce(x, 0L)
 ```
 
 ```
-## [1] 0 4 1 3 2 0 0 5
+## [1] 4 0 0 2 5 0 1 3
 ```
 
 I think that makes sense. I know that `sample()` is going to give me eight values with three `NA` values and the numbers 1 - 5.  
@@ -85,7 +85,7 @@ coalesce(x, 928L)
 ```
 
 ```
-## [1] 928   4   1   3   2 928 928   5
+## [1]   4 928 928   2   5 928   1   3
 ```
 
 That works!  
@@ -109,7 +109,7 @@ coalesce(x, 9.8)
 ```
 
 ```
-## [1] 9.8 4.0 1.0 3.0 2.0 9.8 9.8 5.0
+## [1] 4.0 9.8 9.8 2.0 5.0 9.8 1.0 3.0
 ```
 
 OK, but do I _really_ have to specify an integer?  
@@ -120,7 +120,7 @@ coalesce(x, 5)
 ```
 
 ```
-## [1] 5 4 1 3 2 5 5 5
+## [1] 4 5 5 2 5 5 1 3
 ```
 
 (Yes.)  
@@ -132,7 +132,7 @@ coalesce(x, 5L)
 ```
 
 ```
-## [1] 5 4 1 3 2 5 5 5
+## [1] 4 5 5 2 5 5 1 3
 ```
 
 Great! I feel comfortable with the first worked example, but want to check out 
