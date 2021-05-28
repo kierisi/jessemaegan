@@ -1,0 +1,113 @@
+---
+title: 'Learning to Learn: metacognition and the coalesce() function'
+author: Jesse Mostipak
+date: '2019-03-28'
+slug: learning-to-learn-metacognition-and-the-coalesce-function
+categories: []
+tags:
+  - learning
+  - learning to learn
+  - R
+  - teaching yourself
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="the-challenge" class="section level2">
+<h2>The challenge</h2>
+<p>One skill that all great educators possess is the ability to ask questions.
+Asking the right questions at the right time of the learners in your classroom
+can facilitate understanding, uncover misconceptions, and indicate whether or
+not learners have mastered the material.</p>
+<p>However, when you’re learning on your own you have to simultaneously fill the
+roles of both learner and educator, and not only know both how and when to ask
+yourself questions, but also answer your questions, evaluate your answers, and redirect your learning path as you progress.</p>
+</div>
+<div id="encountering-coalesce" class="section level2">
+<h2>Encountering coalesce</h2>
+<p>Rather than rehash all the ways that one can develop and deliver questions (check out <a href="https://teachlikeachampion.com/books/teach-like-champion-2-0">Doug Lemov’s “Teach Like a Champion 2.0”</a>
+if you’re interested in more
+information), I wanted to do a quick walkthrough of both my code as well as
+thought process when I encountered the <code>coalesce()</code> function this evening.</p>
+<p>I noticed use of the <code>coalesce()</code> function while I was reading through <a href="https://github.com/sfirke/janitor">the vignette for the <code>janitor</code> package</a>:</p>
+<p><img src="https://i.imgur.com/XO0JSgZ.png" /></p>
+<p><strong>Thought:</strong> hmm. I’ve definitely <em>seen</em> <code>coalesce()</code> before, but I don’t know
+what it does.</p>
+<p><strong>Action:</strong> open RStudio and run the following code:</p>
+<pre class="r"><code># install the dplyr package if you don&#39;t have it
+# install.packages(dplyr)  
+
+# load the dplyr package into your workspace
+library(dplyr)
+
+# pull up the Help page for the coalesce function
+?coalesce</code></pre>
+<p>Once I’ve got the <code>coalesce()</code> Help page open I’ve got some good information at
+my disposal. The title and description give me some clue as to what’s happening
+in this function.</p>
+<p><strong>Question to self:</strong> based on the information in the title and description,
+could you explain to someone what the <code>coalesce()</code> function does?</p>
+<p><em>lolnope!</em></p>
+</div>
+<div id="inside-my-brain-case-exploring-coalesce" class="section level2">
+<h2>Inside my brain case: exploring <code>coalesce()</code></h2>
+<p>OK, let’s look at what the first example in the Help documentation does:</p>
+<pre class="r"><code>x &lt;- sample(c(1:5, NA, NA, NA))
+coalesce(x, 0L)</code></pre>
+<pre><code>## [1] 0 5 0 0 3 4 2 1</code></pre>
+<p>I think that makes sense. I know that <code>sample()</code> is going to give me eight values with three <code>NA</code> values and the numbers 1 - 5.</p>
+<p><em><strong>But what happens if I use an integer besides 0?</strong></em><br />
+I’m wondering if the 0L is replacing the <code>NA</code> values with 0. If that’s the case, then the <code>NA</code> values should be replaced with any integer that I feed into the <code>coalesce()</code> function. Let’s use an intentionally larger number so that it’s easy to visually discern:</p>
+<pre class="r"><code>coalesce(x, 928L)</code></pre>
+<pre><code>## [1] 928   5 928 928   3   4   2   1</code></pre>
+<p>That works!</p>
+<p><strong>What happens if I use different values to replace the <code>NA</code> values?</strong><br />
+I’m assuming that I can only use integers since I’m working with <a href="http://adv-r.had.co.nz/Data-structures.html">vectors instead of lists</a>, but let’s check that assumption with a character string:</p>
+<pre class="r"><code>coalesce(x, &quot;rabbit&quot;)</code></pre>
+<pre><code>## Error: Can&#39;t combine `..1` &lt;integer&gt; and `..2` &lt;character&gt;.</code></pre>
+<p>What about a double?</p>
+<pre class="r"><code>coalesce(x, 9.8)</code></pre>
+<pre><code>## [1] 9.8 5.0 9.8 9.8 3.0 4.0 2.0 1.0</code></pre>
+<p>OK, but do I <em>really</em> have to specify an integer?</p>
+<pre class="r"><code>coalesce(x, 5)</code></pre>
+<pre><code>## [1] 5 5 5 5 3 4 2 1</code></pre>
+<p>(Yes.)</p>
+<p>Let’s confirm:</p>
+<pre class="r"><code>coalesce(x, 5L)</code></pre>
+<pre><code>## [1] 5 5 5 5 3 4 2 1</code></pre>
+<p>Great! I feel comfortable with the first worked example, but want to check out
+the second, because it looks like something I could use in my own work:</p>
+<pre class="r"><code>y &lt;- c(1, 2, NA, NA, 5)
+z &lt;- c(NA, NA, 3, 4, 5)
+coalesce(y, z)</code></pre>
+<pre><code>## [1] 1 2 3 4 5</code></pre>
+<p><strong>Is the <code>NA</code> in one vector being replaced by a numerical value in the other vector?</strong></p>
+<p>I’m 98% confident that this is the case, but let’s double check:</p>
+<pre class="r"><code>a &lt;- c(1, NA, 5)
+b &lt;- c(22, 24, 26)
+coalesce(a, b)</code></pre>
+<pre><code>## [1]  1 24  5</code></pre>
+<p><strong>But what happens if I have two <code>NA</code> values, both at the same position in each vector?</strong></p>
+<p>What I <em>think</em> will happen is that I’ll get an <code>NA</code> value, because there isn’t anything other than an <code>NA</code> available to replace the existing <code>NA</code>.</p>
+<pre class="r"><code>c &lt;- c(1, NA, 5)
+d &lt;- c(2, NA, 4)
+coalesce(c, d)</code></pre>
+<pre><code>## [1]  1 NA  5</code></pre>
+<p><strong>What happens if I have <code>NA</code> values in both vectors, but in different positions?</strong></p>
+<p>I assume that I’ll be left with a vector comprised entirely of integers, and I’m <em>guessing</em> that the <code>NA</code> value in <code>e</code> will be replaced with the <strong>24</strong> from <code>f</code>:</p>
+<pre class="r"><code>e &lt;- c(1, NA, 5)
+f &lt;- c(NA, 24, 26)
+coalesce(e, f)</code></pre>
+<pre><code>## [1]  1 24  5</code></pre>
+<p>Based on these results it seems that the order in which I supply the vectors to the <code>coalesce()</code> function matters. This isn’t entirely surprising - this is how R behaves - but I want to confirm this finding.</p>
+<p><strong>What if I reverse the order of vectors provided to the <code>coalesce()</code> function?</strong></p>
+<p>My assumption is that I’ll see the <em>first</em> <code>NA</code> value from <code>f</code> replaced with <strong>1</strong> from <code>e</code>:</p>
+<pre class="r"><code>coalesce(f, e)</code></pre>
+<pre><code>## [1]  1 24 26</code></pre>
+<p>Sweet. At this point I feel like I have a handle on what <code>coalesce()</code> does and how it generally behaves.</p>
+</div>
