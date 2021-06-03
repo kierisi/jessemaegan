@@ -62,3 +62,5 @@ You really don’t need to wait to start working on meaningful, real-world data.
 You can also check out [Data for Democracy](http://datafordemocracy.org/)--they have a lot of work going on, and are a great place to start building up your experience.
 
 Local non-profits also provide a great opportunity to hone your data science skills. Even if they aren’t hiring for an analytics staff member, try reaching out to their volunteer coordinator or analytics team to see if you can volunteer your data talents.
+
+_Photo by <a href="https://unsplash.com/@jtylernix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tyler Nix</a> on <a href="https://unsplash.com/s/photos/move?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

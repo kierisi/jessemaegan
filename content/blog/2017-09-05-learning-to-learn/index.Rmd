@@ -51,3 +51,5 @@ And if you’re interested in more resources on learning how to learn, I recomme
 * [Learning to Learn article](https://hbr.org/2016/03/learning-to-learn) from the Harvard Business Review
 * [Learning to Learn: You, Too, Can Rewire Your Brain article](https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html?mcubz=0) from the New York Times
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) Coursera Course (approximately 3 hours, audit at no cost)
+
+_Photo by <a href="https://unsplash.com/@nbabrams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Abrams</a> on <a href="https://unsplash.com/s/photos/slow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

@@ -126,3 +126,5 @@ Look for an email from Slack, and be sure to check your spam, check your clutter
 We will also send out invites via Twitter DMs if needed, so please _also_ check your Twitter inbox and Twitter requests inbox.
 
 If you still can’t find your invite, and it’s been over a week since signing up, please reach out to [Jesse](https://twitter.com/kierisi) on Twitter.
+
+_Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/repeat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

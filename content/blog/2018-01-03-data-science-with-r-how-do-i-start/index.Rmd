@@ -112,3 +112,5 @@ One of my all-time favorite things is when someone shares with me their recent R
 
 ### Blog about your experience
 You have something to say---you’re alive on this planet commanding a tiny metal box to do your data science bidding, and that’s awesome. Now tell the world!  
+
+_Photo by <a href="https://unsplash.com/@thematthoward?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matt Howard</a> on <a href="https://unsplash.com/s/photos/journey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

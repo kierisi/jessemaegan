@@ -65,3 +65,5 @@ There are two main roles within this online community - that of a learner, and t
 
 #### Update
 This version of the R for Data Science online learning community is now closed. You can learn more about the next iteration [here](https://www.jessemaegan.com/post/r4ds-the-next-iteration/).
+
+_Photo by <a href="https://unsplash.com/@wrwhite3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William White</a> on <a href="https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
