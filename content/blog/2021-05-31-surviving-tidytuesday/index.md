@@ -5,6 +5,7 @@ date: '2021-05-31'
 slug: [Wrangling our way through Survivor data to create a scatterplot]
 categories: []
 tags: [content creation, R, TidyTuesday, Mario Kart]
+summary: Wrangling Survivor data using {lubridate}, mutate(), and pivot_longer(), and then creating our beginner-level scatterplot.
 ---
 ### The hardest part about Survivor
 This week's [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) dataset focused on the reality show [Survivor](https://en.wikipedia.org/wiki/Survivor_(American_TV_series)). 
