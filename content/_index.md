@@ -8,7 +8,7 @@ images:
 - img/profile.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Data Science & Machine Learning content creator
+subtitle: Data Science & Machine Learning content developer
 text_align_left: true
 title: Jesse Mostipak
 ---
