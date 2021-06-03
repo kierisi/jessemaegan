@@ -60,3 +60,4 @@ The [R4DS Online Learning Community](http://www.rfordatasci.com/) is doing great
 
 The `R` community is a wonderful, dynamic, and vibrant place, and I'm not going far. `R` is lovely a tool that I'm starting to use more regularly in my career, and I'm still excited about leveraging data science to improve academic outcomes for kids. But for now I'll be doing it quietly and in my own way. 
 
+_Photo by <a href="https://unsplash.com/@jacquiemunguia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jacqueline Munguía</a> on <a href="https://unsplash.com/s/photos/joy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

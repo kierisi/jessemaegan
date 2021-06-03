@@ -56,3 +56,5 @@ As we head out on this adventure, there's nothing I'd love more than to hear wha
 ## Get involved
 
 Find an issue? Want to share a counterpoint? Know how to make emojis work in `blogdown`? Find me on [Twitter](https://twitter.com/kierisi).
+
+_Photo by <a href="https://unsplash.com/@hollymandarich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Holly Mandarich</a> on <a href="https://unsplash.com/s/photos/adventure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

@@ -29,3 +29,5 @@ By signing up for office hours, you are making a commitment to show up during th
 You do not have to prepare anything for office hours, and can show up and use the time to start working through the material, knowing that a mentor will be available to answer questions as they arise. However it may be helpful to have at least read through the material ahead of time so that you have an idea of where you might get stuck.
 
 These office hours are a fantastic opportunity to really dive deep into an R for data science project while also getting to know some of our community members, and we can't wait to see you there!
+
+_Photo by <a href="https://unsplash.com/@myleon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leon</a> on <a href="https://unsplash.com/s/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

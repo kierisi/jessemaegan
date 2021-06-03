@@ -85,3 +85,5 @@ No, but consider reaching out to the Python for Data Science group!
 # Now let’s get reading!
 
 ![](https://media.giphy.com/media/ALpD1LgE7u3sI/giphy.gif)
+
+*Photo by <a href="https://unsplash.com/@ethanrobertson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ethan Robertson</a> on <a href="https://unsplash.com/s/photos/summer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
