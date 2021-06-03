@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a content creator who focuses on using a combination of live streamed videos and animation to bring data science, machine learning, and deep learning concepts to life. 
+I'm a content developer who focuses on using a combination of live streamed videos and animation to bring data science, machine learning, and deep learning concepts to life. 
 

@@ -6,7 +6,7 @@ number_categories: 3 # set to zero to exclude
 use_featured: false
 show_intro: true
 intro: |
-  I'm a first-generation college graduate who started their career as a high school science teacher before taking a hard left turn into data science. And while I've never worked more than a couple of months as a data scientist, I've built a career out of creating data science content that is approachable, engaging, and intended to bring joy to learners. 
+  I'm a first-generation college graduate who started their career as a high school science teacher before taking a hard left turn into data science. And while I've never worked more than a couple of months as a data scientist, I've built a career out of developing data science content that is approachable, engaging, and intended to bring joy to learners. 
   
   One of the things I'm most passionate about is removing barriers to data science careers, so that anyone who is interest in this field has the skills, knowledge, and opportunities that they need to be successful. 
   
