@@ -29,3 +29,5 @@ Wins come in all shapes and sizes--maybe you finally remembered to use the `+` o
 Your win can be shared as a single sentence within the channel, or a link to a video or blog post that you’ve created. We want to hear from you and support you as you’re learning your way through [R for Data Science](http://r4ds.had.co.nz/)!    
 
 Remember: the size of your win isn’t what’s important--everyone’s learning process unfolds at different rates and sizes--what matters is coming together to celebrate everyone’s learning journey within our online community.
+
+_Photo by <a href="https://unsplash.com/@jdent?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Dent</a> on <a href="https://unsplash.com/s/photos/winning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

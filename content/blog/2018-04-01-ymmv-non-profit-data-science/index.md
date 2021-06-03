@@ -98,3 +98,5 @@ It’s also worth mentioning that as a volunteer, [you are not considered an emp
 Remember that when you’re volunteering your time with a non-profit organization, you should be doing so with the intent to help make the world a better place moreso than to build up your data science CV. Look for NPOs whose mission statement aligns with your personal values, and when you commit to volunteering, be sure to follow through.
 
 And whether you’ve been doing non-profit data work for decades, or you just started volunteering this week, I’d love to hear your story and ask you about your experience, so please be in touch!
+
+*Photo by <a href="https://unsplash.com/@jltps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Julie Tupas</a> on <a href="https://unsplash.com/s/photos/drive?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*

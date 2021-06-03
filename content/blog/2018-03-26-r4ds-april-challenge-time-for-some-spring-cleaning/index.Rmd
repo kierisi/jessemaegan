@@ -47,3 +47,5 @@ _If [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/RE
 Both of these projects are the result of collaborations between Radovan, Burcu, Raul, Rosa, Jake, Thomas, & Ariel, and we're thrilled to be sharing them with our community! 
 
 ![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)  
+
+_Photo by <a href="https://unsplash.com/@heftiba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/s/photos/spring-cleaning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

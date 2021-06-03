@@ -45,3 +45,5 @@ Then commit to showing up for five minutes a day, five days a week, in the corre
 Feel free to share what you’re learning, as it’s a fantastic way to help others learn!
 
 There’s no formal accountability method for this challenge, but feel free to create data visualizations, blog posts, and/or tweets and share them with the community!
+
+_Photo by <a href="https://unsplash.com/@camylla93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Camylla Battani</a> on <a href="https://unsplash.com/s/photos/raise-hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

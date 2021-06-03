@@ -93,3 +93,5 @@ And a million thanks to [Mara](https://twitter.com/dataandme) for collecting all
 * [StackOverflow: How to make a great R reproducible example? aka MCVE](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
 * [Three tips for posting good questions to R-help and Stack Overflow](https://www.r-bloggers.com/three-tips-for-posting-good-questions-to-r-help-and-stack-overflow/)
 * [The R Inferno, Circle 9: Unhelpfully Seeking Help](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+
+_Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/instructions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

@@ -46,3 +46,5 @@ Excellent question! We have an online learning community of over 1,000 learners 
 
 ### I don't want to join the group, but I _do_ want to see the talks
 We'll be making the talks public after the viewing party, at which point you'll be able to access them.
+
+_Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/watch-tv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

@@ -59,3 +59,5 @@ _Many thanks to [Alison Hill](https://twitter.com/apreshill) for sharing the fol
 
 * [You can link _directly_ to GIPHY (or other sites)](https://alison.rbind.io/post/r-ladies-slides/), which removes the need for imgur uploads
 * And for information on figure captions, [look no further](https://blogdown-demo.rbind.io/2017/10/06/adding-figures-and-other-images-to-posts/)!
+
+_Photo by <a href="https://unsplash.com/@gensahub_style?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gensa Hub</a> on <a href="https://unsplash.com/s/photos/animation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
