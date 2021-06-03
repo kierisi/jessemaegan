@@ -64,3 +64,5 @@ my mind reads the `pandas` code as:
 My `pandas` statement is still a work in progress, and more verbose than it likely needs to be, but illustrates how we're getting to the same destination using different paths.
 
 I've only just started to scratch the surface of `pandas`, but am starting to get a handle on things and am excited to see where it takes me!
+
+_Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/miss-you?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

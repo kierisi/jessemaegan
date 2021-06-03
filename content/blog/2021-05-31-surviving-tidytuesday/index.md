@@ -121,3 +121,6 @@ My suggestions are to try:
 * changing the theme of the plot
 * adding regression lines to each of the datasets
 * doing a deep dive into the outliers we see at the far right of the graph -- what makes those points unique? (This would also be a great starting point for additional visualizations as well as a blog post!)
+
+_Photo by <a href="https://unsplash.com/@karim_manjra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Karim MANJRA</a> on <a href="https://unsplash.com/s/photos/survivor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
+  

@@ -103,3 +103,5 @@ What I appreciate most about this book is that it's written for people who know 
 - Finish <a href="https://jakevdp.github.io/WhirlwindTourOfPython/" target="_blank">Whirlwind Tour of Python</a> _(solo)_
 - Start <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a> _(solo)_
 - Start <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="_blank">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</a> _(small study group)_
+
+_Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/s/photos/learn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

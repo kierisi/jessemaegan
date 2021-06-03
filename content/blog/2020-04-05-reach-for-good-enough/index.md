@@ -65,3 +65,4 @@ A lot of the same things from last week!
 - Chapter 2 of <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="_blank">Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow</a>
 - Continue with <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a>
 
+_Photo by <a href="https://unsplash.com/@estudiobloom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Estúdio Bloom</a> on <a href="https://unsplash.com/s/photos/good-enough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
