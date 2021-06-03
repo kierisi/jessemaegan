@@ -100,3 +100,5 @@ Having sorted all of the above out, I started to make progress crocheting - _act
 The more time I spent crocheting the less time I spent undoing everything and re-consulting the pattern. I'd moved from "I'm going to do this one round and then undo it and practice it again" to "I'm going to finish this single piece and then figure out what I need to modify."  
 
 It's taken me four days of work, but I finally have a growing stack of crocheted pieces that are the same size and shape and resemble the pattern, which feels pretty freaking awesome.  
+
+_Photo by <a href="https://unsplash.com/@penrosekaren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Karen Penroz</a> on <a href="https://unsplash.com/s/photos/crochet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

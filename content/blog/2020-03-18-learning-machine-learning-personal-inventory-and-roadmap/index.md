@@ -94,3 +94,5 @@ Every week I’ll be posting a round-up of my (machine and deep learning) learni
 
 I truly believe that we learn better when we learn together.
 I’d love to hear what your landmarks are and how your learning journey is going, and the best place to do that is to start the conversation on [Twitter](www.twitter.com/kierisi)!
+
+*Photo by <a href="https://unsplash.com/@sxy_selia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sangga Rima Roman Selia</a> on <a href="https://unsplash.com/s/photos/civilization?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*

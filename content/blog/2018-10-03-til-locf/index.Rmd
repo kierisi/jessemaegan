@@ -81,3 +81,5 @@ I've set [this example up in a GitHub repository](https://github.com/jmostipak/t
 If you're not sure where to start, consider updating the README, approach this problem a different way, continue tidying up the code, or even do a full-blown analysis! Whatever you choose, I'm happy to support good-faith contributions and help you out as you develop your open source contributing skills.
 
 If you're new to GitHub, check out Jenny Bryan and Jim Hester's [happygitwithr.com](http://happygitwithr.com/).
+
+_Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
