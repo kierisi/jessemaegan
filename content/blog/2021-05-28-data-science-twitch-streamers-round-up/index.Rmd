@@ -47,7 +47,7 @@ What's more is that they're working on `{rdew}`, an R package for Stardew Valley
 While they plan the project ahead of time, they don't see the dataset until the stream starts.
 
 ### josiahparry
-**[Josiah Perry](https://www.twitch.tv/josiahparry)** doesn't have a set schedule, but you can catch them on weekends and weekdays streaming R package development. And don't miss Josiah's appearance on this season of SLICED!
+**[Josiah Parry](https://www.twitch.tv/josiahparry)** doesn't have a set schedule, but you can catch them on weekends and weekdays streaming R package development. And don't miss Josiah's appearance on this season of SLICED!
 
 ### mcmullarkey 
 **[Dr. Michael Mullarkey](https://www.twitch.tv/mcmullarkey)** streams approximately twice a week, with one stream focused  on leveling up your data science game (hang out, discuss, some live coding), and another stream called "Data Distillery Dash" where they take data they've never seen before, solve a prediction problem in #rstats, & write a distill blog post in 2 hrs or less. Did I mention they're also a contestant on SLICED?

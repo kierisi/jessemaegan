@@ -14,7 +14,7 @@ description: "This is a fully featured blog that supports categories, \ntags, se
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
-show_post_thumbnail: false
+show_post_thumbnail: true
 sidebar:
   description: "A collection of links to books, articles, and videos that I'm currently engaged with and thinking about:
   <br>
