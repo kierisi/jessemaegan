@@ -6,7 +6,7 @@ categories:
 - Kaggle
 date: "2020-12-15"
 draft: false
-excerpt: A collection of Tensor Processing Unit (TPU) content that I created while at Kaggle
+excerpt: A collection of Tensor Processing Unit (TPU) content that I created while at Kaggle. Tensor Processing Units are hardware accelerators developed by Google, and are specialized for deep learning tasks. While they're designed to be compatible with TensorFlow, there have been a growing number of excellent resources dedicated to using TPUs with PyTorch.
 layout: single
 links:
 - icon: user-astronaut
