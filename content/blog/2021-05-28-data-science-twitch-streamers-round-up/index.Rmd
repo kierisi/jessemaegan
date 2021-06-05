@@ -4,12 +4,14 @@ author: Jesse Mostipak
 date: '2021-05-28'
 slug: []
 categories:
-  - Content Creation
+  - content creation
+  - resources
+tags:
   - community
   - data science
   - online learning
   - learnML
-tags: []
+  - streaming
 subtitle: "I can't believe this site is free"
 excerpt: ''
 images: ~

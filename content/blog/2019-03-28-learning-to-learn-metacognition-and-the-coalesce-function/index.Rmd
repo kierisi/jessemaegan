@@ -3,12 +3,13 @@ title: 'Learning to Learn: metacognition and the coalesce() function'
 author: Jesse Mostipak
 date: '2019-03-28'
 slug: learning-to-learn-metacognition-and-the-coalesce-function
-categories: []
+categories: 
+  - learning
+  - reflection
 tags:
   - learning
   - learning to learn
   - R
-  - teaching yourself
 header:
   caption: ''
   image: ''

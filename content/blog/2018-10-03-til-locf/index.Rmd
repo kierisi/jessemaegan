@@ -3,9 +3,10 @@ title: 'TIL: Last observation carried forward (LOCF) using fill()'
 author: Jesse Mostipak
 date: '2018-10-03'
 slug: til-locf
-categories: []
-tags:
+categories: 
+  - reflection
   - learning
+tags:
   - learning to learn
   - R
 header:

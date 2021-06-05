@@ -2,9 +2,14 @@
 title: 'Surviving #TidyTuesday'
 author: Jesse Mostipak
 date: '2021-05-31'
-slug: [Wrangling our way through Survivor data to create a scatterplot]
-categories: []
-tags: [content creation, R, TidyTuesday, Mario Kart]
+slug: 
+categories: 
+  - tutorial
+tags: 
+  - R
+  - #TidyTuesday
+  - Survivor
+  - scatterplot
 summary: Wrangling Survivor data using {lubridate}, mutate(), and pivot_longer(), and then creating our beginner-level scatterplot.
 ---
 ### The hardest part about Survivor

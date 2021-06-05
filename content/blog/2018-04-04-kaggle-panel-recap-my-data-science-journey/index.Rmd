@@ -3,7 +3,8 @@ title: 'Kaggle panel recap: my data science journey'
 author: Jesse Mostipak
 date: '2018-04-04'
 slug: kaggle-panel-recap-my-data-science-journey
-categories: []
+categories: 
+  - reflection
 tags:
   - career transition
   - data science

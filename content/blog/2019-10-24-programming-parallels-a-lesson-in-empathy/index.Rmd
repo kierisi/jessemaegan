@@ -3,7 +3,8 @@ title: 'Programming parallels: a lesson in empathy'
 author: Jesse Mostipak
 date: '2019-10-24'
 slug: programming-parallels-a-lesson-in-empathy
-categories: []
+categories: 
+  - reflection
 tags:
   - community
   - learning

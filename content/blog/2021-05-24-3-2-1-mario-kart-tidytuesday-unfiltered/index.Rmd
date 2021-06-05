@@ -2,11 +2,14 @@
 title: '3-2-1 Mario Kart! #TidyTuesday Unfiltered'
 author: Jesse Mostipak
 date: '2021-05-24'
-slug: [A reflection and rundown of our first ever TidyTuesday Unfiltered stream!]
+slug: 
 categories:
-  - Content Creation
+  - tutorial
+tags:
+  - #TidyTuesday
   - R
-  - Streaming
+  - streaming
+  - boxplot
 tags: [content creation, R, TidyTuesday, Mario Kart]
 ---
 

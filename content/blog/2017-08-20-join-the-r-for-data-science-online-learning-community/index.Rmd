@@ -4,12 +4,7 @@ author: Jesse Mostipak
 date: '2017-08-20'
 slug: join-the-r-for-data-science-online-learning-community
 categories:
-  - R
-  - R4DS
-  - data science
-  - education
-  - online learning
-  - community
+  - learning
 tags:
   - R
   - R4DS

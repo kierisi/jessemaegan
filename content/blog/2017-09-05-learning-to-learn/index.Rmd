@@ -3,7 +3,9 @@ title: Learning to Learn
 author: Jesse Mostipak
 date: '2017-09-05'
 slug: learning-to-learn
-categories: []
+categories: 
+  - learning
+  - reflection
 tags:
   - online learning
   - learning

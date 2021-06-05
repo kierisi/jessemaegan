@@ -3,7 +3,9 @@ title: 'YMMV: non-profit data science'
 author: Jesse Mostipak
 date: '2018-04-01'
 slug: ymmv-non-profit-data-science
-categories: []
+categories: 
+  - reflection
+  - resources
 tags:
   - data science
   - non-profits

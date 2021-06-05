@@ -4,13 +4,13 @@ author: Jesse Mostipak
 date: '2021-06-04'
 slug: []
 categories:
-  - content
   - learning
   - reflection
 tags:
   - sliced
   - machine learning
   - tidymodels
+  - learnML
 subtitle: ''
 excerpt: 'How choosing to participate in SLICED helped me get serious about learning machine learning.'
 images: ~

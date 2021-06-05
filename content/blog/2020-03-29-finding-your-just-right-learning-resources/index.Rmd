@@ -4,14 +4,14 @@ author: Jesse Mostipak
 date: '2020-03-29'
 slug: finding-your-just-right-learning-resources
 categories:
-  - learnML
+  - learning
+  - resources
 tags:
   - education
   - learning
   - learning to learn
   - machine learning
   - python
-  - teaching yourself
 header:
   caption: ''
   image: ''

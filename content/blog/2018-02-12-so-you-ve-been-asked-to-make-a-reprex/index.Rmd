@@ -4,10 +4,6 @@ author: Jesse Mostipak
 date: '2018-02-12'
 slug: so-you-ve-been-asked-to-make-a-reprex
 categories:
-  - education
-  - R
-  - reprex
-  - reproducible example
   - tutorial
 tags:
   - education

@@ -2,6 +2,8 @@
 title: 'R4DS March Challenge: Participate in a Viewing Party!'
 author: Jesse Mostipak
 date: '2018-02-24'
+categories:
+  - content creation
 tags:
   - community
   - presenting

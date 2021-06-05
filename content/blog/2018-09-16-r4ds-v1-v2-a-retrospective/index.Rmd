@@ -3,7 +3,8 @@ title: 'R4DS (v1 & v2): A Retrospective'
 author: Jesse Mostipak
 date: '2018-09-16'
 slug: r4ds-v1-v2-a-retrospective
-categories: []
+categories: 
+  - reflection
 tags:
   - community
   - data science

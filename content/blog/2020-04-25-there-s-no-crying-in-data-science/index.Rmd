@@ -3,7 +3,9 @@ title: There's No Crying in Data Science
 author: Jesse Mostipak
 date: '2020-04-25'
 slug: there-s-no-crying-in-data-science
-categories: []
+categories: 
+  - reflection
+  - learning
 tags:
   - data science
   - education
@@ -13,7 +15,6 @@ tags:
   - learning
   - python
   - R
-  - teaching yourself
 header:
   caption: ''
   image: ''

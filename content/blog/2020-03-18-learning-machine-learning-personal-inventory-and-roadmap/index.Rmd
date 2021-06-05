@@ -2,15 +2,16 @@
 title: Sid Meier's Civilization and My Machine Learning Path
 author: Jesse Mostipak
 date: '2020-03-18'
+categories:
+  - learning
+  - reflection
 tags:
   - data science
   - education
-  - learning
   - learning to learn
   - machine learning
   - online learning
   - python
-  - teaching yourself
 slug: learning-machine-learning-personal-inventory-and-roadmap
 header:
   caption: ''

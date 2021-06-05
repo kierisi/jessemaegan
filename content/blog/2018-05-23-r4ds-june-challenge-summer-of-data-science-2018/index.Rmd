@@ -3,7 +3,8 @@ title: 'R4DS June Challenge: Summer of Data Science 2018'
 author: Jesse Mostipak
 date: '2018-05-23'
 slug: r4ds-june-challenge-summer-of-data-science-2018
-categories: []
+categories: 
+  - content creation
 tags:
   - challenge
   - data science

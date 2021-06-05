@@ -4,7 +4,7 @@ author: Jesse Mostipak
 date: '2020-04-05'
 slug: reach-for-good-enough
 categories:
-  - learnML
+  - reflection
 tags:
   - learning
   - learning to learn

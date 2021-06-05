@@ -2,6 +2,8 @@
 title: GIF it, GIF it real good
 author: Jesse Mostipak
 date: '2018-02-26'
+categories:
+  - tutorial
 tags:
   - blogdown
   - GIF
