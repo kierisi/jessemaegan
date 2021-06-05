@@ -11,7 +11,7 @@ tags:
   - machine learning
   - tidymodels
   - learnML
-subtitle: ''
+subtitle: 'Sometimes the best way to do something is to simply sit down and do it.'
 excerpt: 'How choosing to participate in SLICED helped me get serious about learning machine learning.'
 images: ~
 series: ~

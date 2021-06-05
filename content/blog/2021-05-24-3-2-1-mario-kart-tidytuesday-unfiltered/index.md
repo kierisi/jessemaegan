@@ -2,12 +2,17 @@
 title: '3-2-1 Mario Kart! #TidyTuesday Unfiltered'
 author: Jesse Mostipak
 date: '2021-05-24'
-slug: [A reflection and rundown of our first ever TidyTuesday Unfiltered stream!]
+slug: 
 categories:
-  - Content Creation
+  - tutorial
+subtitle: "Is Rainbow Road actually challenging? Or does it just have a reputation of being challenging?"
+tags:
+  - #TidyTuesday
   - R
-  - Streaming
-tags: [content creation, R, TidyTuesday, Mario Kart]
+  - streaming
+  - boxplot
+  - Mario Kart
+summary: "Code and video walkthrough of the boxplot we created as part of the #TidyTuesday Unfiltered stream."
 ---
 
 At my first data science job I worked with a guy who would throw his hands up and shout "We did it, Reddit!" any time something went really well. 

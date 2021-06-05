@@ -11,9 +11,12 @@ tags:
   - data science
   - online learning
   - learnML
+  - python
+  - R
+  - julia
   - streaming
 subtitle: "I can't believe this site is free"
-excerpt: ''
+excerpt: "A regularly updated list of data science and machine learning Twitch streamers, coding in R, Python, and//or Julia!"
 images: ~
 series: ~
 layout: single

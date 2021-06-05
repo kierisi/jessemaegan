@@ -3,14 +3,16 @@ title: Doesn't this make you miss {dplyr} tho?
 author: Jesse Mostipak
 date: '2020-05-03'
 slug: doesn-t-this-make-you-miss-dplyr-tho
-categories: []
+subtitle: I love all my children equally.
+summary: "A quick glimpse at how I've started to learn and love Python."
+categories: 
+  - reflection
 tags:
   - data science
   - learning
   - learning to learn
   - python
   - R
-  - teaching yourself
 header:
   caption: ''
   image: ''

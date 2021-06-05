@@ -4,14 +4,19 @@ author: Jesse Mostipak
 date: '2021-05-28'
 slug: []
 categories:
-  - Content Creation
+  - content creation
+  - resources
+tags:
   - community
   - data science
   - online learning
   - learnML
-tags: []
+  - python
+  - R
+  - julia
+  - streaming
 subtitle: "I can't believe this site is free"
-excerpt: ''
+excerpt: "A regularly updated list of data science and machine learning Twitch streamers, coding in R, Python, and//or Julia!"
 images: ~
 series: ~
 layout: single

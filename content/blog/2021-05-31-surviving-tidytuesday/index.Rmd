@@ -10,7 +10,7 @@ tags:
   - #TidyTuesday
   - Survivor
   - scatterplot
-summary: Wrangling Survivor data using {lubridate}, mutate(), and pivot_longer(), and then creating our beginner-level scatterplot.
+summary: "We'll wrangle this week's #TidyTuesday Survivor data using {lubridate}, mutate(), and pivot_longer(), and then create our beginner-level scatterplot."
 ---
 ### The hardest part about Survivor
 This week's [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) dataset focused on the reality show [Survivor](https://en.wikipedia.org/wiki/Survivor_(American_TV_series)). 

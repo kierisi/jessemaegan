@@ -3,7 +3,11 @@ title: There's No Crying in Data Science
 author: Jesse Mostipak
 date: '2020-04-25'
 slug: there-s-no-crying-in-data-science
-categories: []
+subtitle: Just kidding we cry all the time here.
+summary: "My reflections on why my brain absolutely refuses to remember anything Python-related, despite my best efforts."
+categories: 
+  - reflection
+  - learning
 tags:
   - data science
   - education
@@ -13,7 +17,6 @@ tags:
   - learning
   - python
   - R
-  - teaching yourself
 header:
   caption: ''
   image: ''
