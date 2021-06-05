@@ -4,14 +4,14 @@ author: Jesse Mostipak
 date: '2021-06-04'
 slug: []
 categories:
-  - content
   - learning
   - reflection
 tags:
   - sliced
   - machine learning
   - tidymodels
-subtitle: ''
+  - learnML
+subtitle: 'Sometimes the best way to do something is to simply sit down and do it.'
 excerpt: 'How choosing to participate in SLICED helped me get serious about learning machine learning.'
 images: ~
 series: ~
@@ -69,4 +69,4 @@ It's the only way any of us improves.
 **[`{tidymodels}` package documentation](https://www.tidymodels.org/packages/)** provides links to documentation for each of the packages within the {tidymodels} framework.
 * **[Tidy Modeling with R](https://www.tmwr.org/)**, an open-source book that is currently being written by the {tidymodels} team.
 
-_Photo by <a href="https://unsplash.com/@lu_pictures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas MARULIER</a> on <a href="https://unsplash.com/s/photos/knife?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
+_Photo by <a href="https://unsplash.com/@shotgram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">SHOT</a> on <a href="https://unsplash.com/s/photos/butcher-knife?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
