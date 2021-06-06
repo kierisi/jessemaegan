@@ -41,6 +41,9 @@ I'll keep updating this list, but as of right now, here are some data science st
 **[Afton Leigh Coombs](https://www.twitch.tv/aftonsteps)** streams programming mostly in R, and also plays Stardew Valley and other educational games. 
 What's more is that they're working on `{rdew}`, an R package for Stardew Valley!
 
+### Aklongmuir
+**[Alyssa](https://www.twitch.tv/aklongmuir)** is a lover of Sporks and Sports, and streams when they code.
+
 ### BrainRPG
 **[BrainRPG](https://www.twitch.tv/BrainRPG)** is a Mexican physics university student interested in open source programming in Julia, the coolest and fastest programming language.
 
