@@ -90,5 +90,8 @@ Usually she's doing #TidyTuesday, but sometimes talks about other data technique
 ### TheCedarPrince
 **[Jacob Zelko](https://www.twitch.tv/thecedarprince)** is a Julia, R, and Python streamer. Their topics range anywhere from animation and dataviz to OpenScience research. Furthermore, they're interested in educational outreach and encouraging others in their stream.
 
+### WaylonWalker
+**[WaylonWalker](https://www.twitch.tv/waylongwalker)** streams about how they use Python and Linux in data science.
+
 ### wviechtb
 **[Wolfgang Viechtbauer](https://www.twitch.tv/wviechtb)** taught their 'Intro to R' course via Twitch last year 3x (~20 hrs of teaching each time). Now they do weekly live streams on R/stats as a continuous follow-up. Streams are usually Thursdays at 5pm CET. 
