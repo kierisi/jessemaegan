@@ -50,6 +50,9 @@ What's more is that they're working on `{rdew}`, an R package for Stardew Valley
 ### EatGameLove
 **[Kyle and Lexi](https://www.twitch.tv/theeatgamelove)** run a variety stream, with everything from gaming to cooking to journaling to code. On most weekends they stream R code! Lately, they've been building a Twitch API package, a Shiny app for the Shiny app contest, and teaching R!
 
+### EmilHvitfeldt
+**[Emil Hvitfeldt](https://www.twitch.tv/emilhvitfeldt)** is a Clinical Data Analyst, teaching adjunct professor, and co-author of "Supervised Machine Learning for Text Analysis in R". They enjoy working on R package development, NLP tools, and color palettes.
+
 ### jazzsloth
 **[David Asboth](https://www.twitch.tv/jazzsloth)** started streaming a few months ago, took a break, and is coming back next week to share data science in Python!
 While they plan the project ahead of time, they don't see the dataset until the stream starts.
