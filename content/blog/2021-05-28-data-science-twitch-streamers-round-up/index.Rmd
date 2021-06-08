@@ -53,6 +53,9 @@ What's more is that they're working on `{rdew}`, an R package for Stardew Valley
 ### EmilHvitfeldt
 **[Emil Hvitfeldt](https://www.twitch.tv/emilhvitfeldt)** is a Clinical Data Analyst, teaching adjunct professor, and co-author of "Supervised Machine Learning for Text Analysis in R". They enjoy working on R package development, NLP tools, and color palettes.
 
+### Indescribled
+**[](https://www.twitch.tv/indescribled)** quit League of Legends and is now streaming games and R! Keep an eye out for their #TidyTuesday streams.
+
 ### jazzsloth
 **[David Asboth](https://www.twitch.tv/jazzsloth)** started streaming a few months ago, took a break, and is coming back next week to share data science in Python!
 While they plan the project ahead of time, they don't see the dataset until the stream starts.
