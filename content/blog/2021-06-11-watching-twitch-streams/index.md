@@ -14,12 +14,12 @@ tags:
 ---
 ## This got long so here's a Table of Contents
 
-* **[What in the h*ckerino is happening in here?]()**
-* **[What a streamer sees]()**
-* **[Supporting a streamer and their content]()**, with info on Follows, Subscriptions, and Bits, as well as Affliates, Partners, and Stream Teams
-* **[Please what is Chat and how does it work?]()**, with information on being a decent human, Chat vs. chat, emotes, Channel Points, and lurking
-* **[Fake it 'til you make it: using chat as the gamers intended]()**
-* **Contribute to building a Community]()**, with info on Raids and Clipping & Sharing 
+* **[What in the h*ckerino is happening in here?](https://www.jessemaegan.com/blog/watching-twitch-streams/#what-in-the-hckerino-is-happening-in-here)**
+* **[What a streamer sees](https://www.jessemaegan.com/blog/watching-twitch-streams/#what-a-streamer-sees)**
+* **[Supporting a streamer and their content](https://www.jessemaegan.com/blog/watching-twitch-streams/#supporting-a-streamer-and-their-content)**, with info on Follows, Subscriptions, and Bits, as well as Affliates, Partners, and Stream Teams
+* **[Please what is Chat and how does it work?](https://www.jessemaegan.com/blog/watching-twitch-streams/#please-what-is-chat-and-how-does-it-work)**, with information on being a decent human, Chat vs. chat, emotes, Channel Points, and lurking
+* **[Fake it 'til you make it: using chat as the gamers intended](https://www.jessemaegan.com/blog/watching-twitch-streams/#fake-it-til-you-make-it-using-chat-like-the-gamers-intended)**
+* **Contribute to building a Community](https://www.jessemaegan.com/blog/watching-twitch-streams/#contribute-to-building-a-community)**, with info on Raids and Clipping & Sharing 
 
 ## What in the h*ckerino is happening in here?
 Landing yourself in Twitch can be an, uh, _experience_. 
