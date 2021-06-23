@@ -16,6 +16,8 @@ images: ~
 series: ~
 layout: single
 ---
+_If you're interested in a deeper dive into the dataset and exploring why this graph is not the most accurate representation, please read [this Twitter thread](https://twitter.com/RussellSPierce/status/1407770578212302859) from Dr. Russel S. Pierce._
+
 I don't have any anecdotes or deep philosophical thoughts on life and how all of this connects back to creating a bump plot, so let's just dive right into things! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUvQ1u0VNnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
