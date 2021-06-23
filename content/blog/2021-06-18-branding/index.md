@@ -15,6 +15,8 @@ images: ~
 series: ~
 layout: single
 ---
+_If you're looking for an excellent follow-up to this piece, please read Randy Au's post, [Personal growth and brands](https://counting.substack.com/p/personal-growth-and-brands)_
+
 ## You already have a personal brand
 During my first month at Kaggle it was suggested that I meet with a colleague to discuss my "personal brand." 
 And yeah, a part of me kind of cringed at that statement because we're inundated with branding and marketing and being pitched to and sold to and constantly reminded that we must consume or die.  
